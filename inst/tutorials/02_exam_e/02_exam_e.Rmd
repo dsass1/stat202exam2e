@@ -1,0 +1,569 @@
+---
+title: "Exam 2"
+tutorial:
+  id: "isds_exam2e"
+  version: 0.1
+  
+output:
+  learnr::tutorial:
+    progressive: false
+    allow_skip: true
+    css: ["css/nu-theme.css"]
+runtime: shiny_prerendered
+description: >
+  This proficiency exam covers Chapter 5 - Chapter 8.
+---
+
+```{r setup, include=FALSE}
+library(learnr)
+library(tidyverse)
+library(tutorialExtras)
+library(gradethis)
+library(skimr)
+
+gradethis_setup(pass = "submitted",
+                fail = "submitted",
+                error_checker.message = "submitted",
+                fail.hint = FALSE
+                )
+
+tutorial_options(exercise.completion = FALSE)
+
+tutorialExtras_setup(is_exam = TRUE)
+
+knitr::opts_chunk$set(echo = FALSE)
+
+survey <- read_rds("data/survey.rds")
+```
+
+
+
+```{r, context = "server"}
+lock_server("lock", 
+            show_correct = FALSE,
+            ex = c("App1", "App2a", "App2b", "App2c", "App2e", "App3a", "App3b"), 
+            ex_pts = c(1, 2, 2, 2, 2, 2, 2),
+            manual = c("App2-desc", "App4-desc"), 
+            manual_pts = c(1, 1)
+            #exclude = c("Name")
+            )
+```
+
+```{r Name}
+# student name
+question_text("Name:",
+              answer_fn(function(value){
+                              if(length(value) >= 1 ) {
+                                return(mark_as(TRUE))
+                                }
+                              return(mark_as(FALSE) )
+                              }),
+              correct = "submitted",
+              incorrect = "submitted",
+              allow_retry = FALSE )
+```
+
+
+## Instructions
+
+```{r Code}
+# question_text("Enter the exam code provided to verify you are in class. This must be submitted at the beginning of your exam. Failure to do so will result in an exam grade of 0.",
+#               answer_fn(function(value){
+#                               if(str_remove_all(str_to_lower(value), " ") %in% c("23stat","reg23") ) {
+#                                 return(mark_as(TRUE))
+#                                 }
+#                               return(mark_as(FALSE) )
+#                               }),
+#               correct = "submitted",
+#               incorrect = "submitted",
+#               allow_retry = FALSE )
+```
+
+
+You have 60 minutes to complete this exam. The exam covers the material learned from Chapter 5 - Chapter 8. It is open note/open book - no using AI or each other.
+
+Once you are finished:
+
+-   **Check Submissions** to make sure every question/exercise has been submitted.
+-   Click the **Lock Exam** button. You will not be able to make any changes once this is clicked. 
+-   Once the exam is locked you will be able to click on the **Download Exam** button.
+
+
+## Concept (18 points)
+
+```{r Q}
+exam(
+  shuffle = TRUE,
+  caption = NULL,
+  #Q1
+  question_dropdown(
+  "Consider a dataset of observations of U.S. adults with a variable for the person's IQ and their weight. <br>
+   Choose the option that best describes the correlation between an adult's IQ and their weight.",
+    answer("Exactly -1"),
+    answer("Between -1 and 0"),
+    answer("About 0", correct = TRUE),
+    answer("Between 0 and 1"),
+    answer("Exactly +1"),
+    allow_retry = TRUE,
+    random_answer_order = FALSE,
+    correct = "submitted",
+    incorrect = "submitted",
+    options= list(multi_part = "cor")),
+  question_dropdown(
+    paste("Examine the graph below and then select the best estimate of the correlation. <br>", htmltools::img(src="images/cor_a.png", height = 200, width = 200)),
+    answer("-0.70"),
+    answer("-0.30"),
+    answer("0"),
+    answer("0.30", correct = TRUE),
+    answer("0.70"),
+    allow_retry = TRUE,
+    random_answer_order = FALSE,
+    correct = "submitted",
+    incorrect = "submitted",
+    options= list(multi_part = "cor")
+  ),
+  question_dropdown(
+  paste("You run a simple linear regression model to predict student SAT math scores (`sat_math`) based on the state's percentage of seniors/juniors taking the SAT (`pct_taking`). The model fitted value and residual for 5 states are shown below. <br><br>", htmltools::img(src="images/lm_simple_a.png", height = 150, width = 450), "<br><br> Did the model over-, under-, or correctly estimate the mean SAT math score for NV (Nevada)?"),
+    answer("over-estimate", correct = TRUE),
+    answer("under-estimate"),
+    answer("correct estimate"),
+    allow_retry = TRUE,
+    random_answer_order = TRUE,
+    correct = "submitted",
+    incorrect = "submitted",
+    options= list(multi_part = "lm")
+  ),
+  question_dropdown(
+  "Using the simple linear regression model output above... <br><br> Which of the five states does the model estimate best?",
+    answer("CA", correct = TRUE),
+    answer("IL"),
+    answer("KS"),
+    answer("NV"),
+    answer("TX"),
+    allow_retry = TRUE,
+    random_answer_order = TRUE,
+    correct = "submitted",
+    incorrect = "submitted",
+    options= list(multi_part = "lm")
+  ),
+  question_numeric(
+  "Again using the simple linear regression model output above... <br><br> what is the fitted/predicted value for Kansas (`KS`)?",
+    answer(559.49, correct = TRUE),
+    allow_retry = TRUE,
+    step = 0.01,
+    correct = "submitted",
+    incorrect = "submitted",
+    options= list(multi_part = "lm")
+  ),
+  question_wordbank(
+  "Consider the following model where age and gender are the explanatory/predictor variables, and **male** is the reference group for gender. <br><br>
+  $$\\hat{y} = b_0 + b_1(age) + b_2(gender) + b_3(age*gender)$$ <br>",
+  choices = c("What is the correct interpretation for \\(b_0\\)?",
+              "What is the correct interpretation for \\(b_3\\)?"),
+  wordbank = c("offset in intercept for males", "offset in intercept for females",
+               "intercept for males", "intercept for females", "offset in slope of age for males",
+               "offset in slope of age for females", "slope of age for males", "slope of age for females"),
+    answer(c("intercept for males", "offset in slope of age for females"), correct = TRUE),
+    allow_retry = TRUE,
+    random_answer_order = FALSE,
+    correct = "submitted",
+    incorrect = "submitted"
+  ),
+  question_dropdown(
+  paste("You build a multiple regression model that predicts a student's final exam score (`final`) based on their midterm exam score (`midterm`). You suspect that whether or not the student studied also plays an impact on their final exam score. The variable study is an indicator variable where `study` = 1 (blue line) if the student studied and `study` = 0 (red line) if the student did not study. The regression output equation is given below <br> <br>
+  $\\widehat{final} = 20 +1(midterm) -43(study) + 0.5(midterm)*(study)$ 
+  <br> <br> Which graph best matches the model? <br> <br>
+        a)", htmltools::img(src="images/mid_study_a.png", height = 150, width = 200),
+        "&nbsp; b)", htmltools::img(src="images/mid_study_b.png", height = 150, width = 200)," <br>
+        c)", htmltools::img(src="images/mid_study_c.png", height = 150, width = 200),
+        " &nbsp; d)", htmltools::img(src="images/mid_study_d.png", height = 150, width = 200) ),
+    answer("a"),
+    answer("b"),
+    answer("c", correct = TRUE),
+    answer("d"),
+    allow_retry = TRUE,
+    random_answer_order = FALSE,
+    correct = "submitted",
+    incorrect = "submitted"
+  ),
+  question_dropdown(
+  "You want to evaluate whether in-person classes or on-line classes provide better learning outcomes for STAT 202. You randomly select 200 students to take STAT 202 and let each student choose whether they take the class in-person or on-line and compare the test scores in each section. <br><br> What conclusions can we draw from this experiment?" ,
+    answer("causal conclusions generalized to the University"),
+    answer("no causal conclusions, correlation statement generalized to the University", correct = TRUE),
+    answer("no causal conclusions, correlation statement only applicable to our sample"),
+    answer("causal conclusions only applicable to our sample"),
+    allow_retry = TRUE,
+    random_answer_order = TRUE,
+    correct = "submitted",
+    incorrect = "submitted"
+  ),
+  question_wordbank("Northwestern is interested in understanding the quality of athletics at the school. <br> <br> Identify the type of sampling method used: <br>",
+    choices = c("Northwestern puts the names of every student athlete into a hat and randomly selects 50 names.",
+                "Northwestern randomly chooses 3 athletes from every one of its sports teams to participate in a survey"
+                ),
+    box = 8,
+    wordbank = c("simple random", "cluster", "stratified", "systematic", "none of these"),
+    answer(c("simple random","stratified"), correct = TRUE),
+    allow_retry = TRUE,
+    random_answer_order = TRUE,
+    correct = "submitted",
+    incorrect = "submitted"
+  ),
+  # question_wordbank("The Illinois State Board of Education is interested in surveying schools to determine student satisfaction in regards to their learning experience. Identify the type of sampling method used:",
+  #   choices = c("the board randomly selects 5 cities and surveys all the schools within the city",
+  #               "the board puts the names of every school in Illinois into a hat and randomly select 40 schools to survey"),
+  #   box = 8,
+  #   wordbank = c("simple random", "cluster", "stratified", "systematic", "none of these"),
+  #   answer(c("stratified","simple random"), correct = TRUE),
+  #   allow_retry = TRUE,
+  #   random_answer_order = TRUE,
+  #   correct = "submitted",
+  #   incorrect = "submitted"
+  # ),
+  question_radio(
+  "To study stress levels of U.S. medical school students, researchers obtained a complete list of names of students enrolled in accredited schools of medicine in the U.S. They listed the students alphabetically and then contacted the first and last 50 names in the list for their study and computed an average stress level of 8 (on a scale of 1 to 10). <br> <br>
+  What notation best describes the computed stress level of 8?",
+    answer("$\\hat{\\pi}$"),
+    answer("$s$"),
+    answer("$\\mu$"),
+    answer("$\\pi$"),
+    answer("$\\bar{x}$", correct = TRUE),
+    allow_retry = TRUE,
+    random_answer_order = TRUE,
+    correct = "submitted",
+    incorrect = "submitted",
+    options= list(multi_part = "gen")
+  ),
+  question_dropdown(
+  "Based on the question above. <br> <br>
+  The results can be generalized to..." ,
+    answer("all current U.S. students"),
+    answer("only our sample", correct = TRUE),
+    answer("all medical students"),
+    answer("all U.S. medical school students"),
+    allow_retry = TRUE,
+    random_answer_order = TRUE,
+    correct = "submitted",
+    incorrect = "submitted",
+    options= list(multi_part = "gen")
+  ),
+  question_dropdown(
+  "A large university wanted to study the relationship between completing an internship during college and students' future earning potential. From the same graduating class, they selected a random sample of 80 students who completed an internship and 100 students who did not complete an internship and examined their salaries five years after graduation. They found that there was a statistically higher mean salary for the internship group than for the noninternship group. <br> <br> Which one of the following interpretations is the most appropriate?" ,
+    answer("More students should complete internships because the data suggests having an internship produces a higher salary on average."),
+    answer("There could be a confounding variable such as student major, that explains the difference in mean salary between the internship and no internship groups.", correct = TRUE),
+    answer("We cannot infer anything from these data since the distributions of salaries is likely right skewed."),
+    answer("You cannot draw any valid conclusions because the sample sizes are different."),
+    allow_retry = TRUE,
+    random_answer_order = TRUE,
+    correct = "submitted",
+    incorrect = "submitted"
+  )
+  
+)
+
+```
+
+
+## Application (17 points)
+
+*Failure to use functions taught in class and opting for base R or AI solutions will result in an automatic deduction from each application in which it is used.*
+
+<br>
+
+The following applications use the `survey` dataset which has been preloaded for you.  All necessary libraries have been pre-loaded for you.
+
+This contains the responses to the questions you answered on day 1 of class. For a detailed description of the variables and data click the Section titled "survey Data". You are welcome to use the Help feature of Posit Cloud if needed.
+
+<br>
+
+For each application **only output/print the requested information**. If you are outputting miscellaneous information there will be a deduction because it demonstrates a lack of understanding.
+
+<br>
+
+
+### Application 1 (1 points)
+
+A file named `survey.csv` is located in a `data/` subdirectory. Use the appropriate `readr` function to read in the dataset and store it as `survey`.
+
+```{r App1, exercise=TRUE}
+
+```
+
+```{r App1-solution, exercise.reveal_solution = FALSE}
+survey <- read_csv("data/survey.csv")
+```
+
+```{r App1-check}
+grade_this_code(
+  correct = "submitted",
+  incorrect = "submitted"
+)
+```
+
+*All applications will still run even if this is incorrect.*
+
+### Application 2 (10 points)
+
+**Part 1**
+
+Calculate the correlation between `height_inches` and `mother_height`.
+
+```{r App2a, exercise=TRUE}
+
+```
+
+
+```{r App2a-solution, exercise.reveal_solution = FALSE}
+survey %>%
+  select(height_inches, mother_height) %>%
+  cor(use = "complete.obs")
+```
+
+```{r App2a-check}
+grade_this_code(
+  correct = "submitted",
+  incorrect = "submitted"
+)
+```
+<br>
+
+**Part 2**
+
+Visualize the relationship of `height_inches` by `mother_height` and add the **line of best fit**.
+
+```{r App2b, exercise = TRUE}
+  
+```
+
+
+```{r App2b-solution, exercise.reveal_solution = FALSE}
+ggplot(survey, aes(x = mother_height, y = height_inches)) +
+  geom_point() +
+  geom_smooth(method = "lm", se = FALSE)
+```
+
+```{r App2b-check}
+grade_this_code(
+  correct = "submitted",
+  incorrect = "submitted"
+)
+```
+<br>
+
+**Part 3**
+
+Build a simple linear regression model that predicts `height_inches` using `mother_height`. Store the model as `model_height`. Output the model results using the `summary()` function. 
+
+```{r App2c, exercise = TRUE}
+
+```
+
+
+```{r App2c-solution, exercise.reveal_solution = FALSE}
+model_height <- lm(height_inches ~ mother_height, data = survey)
+summary(model_height)
+```
+
+```{r App2c-check}
+grade_this_code(
+  correct = "submitted",
+  incorrect = "submitted"
+)
+```
+<br>
+
+**Part 4**
+
+Interpret the **intercept** in the context of the problem.
+
+```{r App2-desc}
+question_text("", incorrect = "submitted",
+              answer("ManuallyGradedEverythingWrong", 
+                     correct = TRUE),
+              allow_retry = TRUE,
+              rows = 5)
+```
+
+
+**Part 5**
+
+Add the residuals from your model called `model_height` to the code below. The code is started for you to remove missing values. Now you need to:
+
+1. `select` only the variables `height_inches` and `mother_height`
+2. Then add a new variable called `residuals` which are equal to the residuals from the model
+3. Make sure your results are being output/printed
+
+*You can complete this even if Part 3 is incorrect.*
+
+```{r App2-setup}
+model_height <- lm(height_inches ~ mother_height, data = survey)
+```
+
+```{r App2e, exercise = TRUE, exercise.setup = "App2-setup"}
+survey %>% 
+  filter(!is.na(height_inches), !is.na(mother_height)) 
+```
+
+```{r App2e-solution, exercise.reveal_solution = FALSE}
+survey %>% 
+  filter(!is.na(height_inches), !is.na(mother_height)) %>% 
+  select(height_inches, mother_height) %>%
+  mutate(residuals = residuals(model_height))
+```
+
+```{r App2e-check}
+grade_this_code(
+  correct = "submitted",
+  incorrect = "submitted"
+)
+```
+
+
+### Application 3 (4 points)
+
+**Part 1**
+
+Build a multiple regression model **with an interaction term** to predict `height_inches` based on `mother_height` and `gender_ident`. 
+
+Output the model results using the `summary()` function. 
+
+The variable `gender_ident` has 2 levels: {Male, Female}
+
+*Those that identify as other were excluded to protect anonymity.*
+
+```{r App3a, exercise = TRUE}
+
+```
+
+
+```{r App3a-solution, exercise.reveal_solution = FALSE}
+model_mult <- lm(height_inches ~ mother_height * gender_ident, data = survey)
+
+summary(model_mult)
+```
+
+
+```{r App3a-check}
+grade_this_code(
+  correct = "submitted",
+  incorrect = "submitted"
+)
+```
+<br>
+
+**Part 2**
+
+Suppose a student's mother is 65 inches tall (`mother_height` = 65) and the student is male (`gender_ident` = `Male`). How tall do we predict this student to be?
+
+Use the code chunk below as a calculator to output your prediction (the multiplication symbol is *).
+
+```{r App3b, exercise = TRUE}
+
+```
+
+
+
+```{r App3b-solution, exercise.reveal_solution = FALSE}
+29.183402 + 0.557055*65 +6.611474*1 -0.009126*65*1
+```
+
+
+```{r App3b-check}
+grade_this_code(
+  correct = "submitted",
+  incorrect = "submitted"
+)
+```
+
+
+### Application 4
+
+Using our `survey` dataset, we built a simple regression model to predict `num_party` based on `fav_drink`. Recall `num_party` represents the number of parties a student attends each month.
+
+The model results are shown below:
+
+```{r}
+model_party <- lm(num_party ~ fav_drink, survey)
+
+summary(model_party)$coefficients
+```
+
+
+**Part 1 (3 points concept)**
+
+```{r App4-concept}
+question_wordbank(
+  paste("Using the model output above to answer the following questions. The variable `fav_drink` has 4 levels: {beer, don't_drink, hard_liquor, wine} <br>") ,
+  choices = c("What is the baseline/reference level?",
+            HTML("Students with what <code>fav_drink</code> level are predicted to on average go to the <b>LEAST</b> number of parties a month?"),
+            HTML("Students with what <code>fav_drink</code>  level are predicted to on average go to the <b>MOST</b> number of parties a month?") ),
+  wordbank = c("beer", "don't_drink", "hard_liquor", "wine"),
+  answer(c("wine","hard_liquor","beer"), correct = TRUE),
+    allow_retry = TRUE,
+    random_answer_order = TRUE,
+    correct = "submitted",
+    incorrect = "submitted"
+  )
+```
+
+**Part 2 (2 points)**
+
+Interpret the coefficient labeled **fav_drinkbeer** in the **context of the problem**.
+
+```{r App4-desc}
+question_text("", incorrect = "submitted",
+              answer("ManuallyGradedEverythingWrong", 
+                     correct = TRUE),
+              allow_retry = TRUE,
+              rows = 5)
+```
+
+
+
+
+## survey Data
+
+You are welcome to open the dataset in Posit Cloud as well if the information provided below is not sufficient for you.
+
+Variables:
+ 
+- `quarter` -- Identifies in which quarter the student took stat 202 (fall 2023, summer 2023, spring 2023, winter, 2023, fall 2022, summer 2022, spring 2022, winter 2022, fall 2021)
+- `gender_ident` -- "Which gender do you identify as (Male, Female). "Other" was removed to protect against the possibility of having their responses identified by other students."
+- `school_year` -- "What year are you in school? (First year, Sophomore, Junior, Senior, Other)"
+- `num_party` -- "On average (approx.) how many parties a month do you attend?"
+- `fav_drink` -- "What is your alcoholic drink of choice? (beer, don't drink, hard_liquor, wine)"
+- `personality` -- "Are you more of an introvert or extrovert? (Introvert, Extrovert)"
+- `campus_housing` -- "Where do you live on campus? (North campus, South campus, Neither)"
+- `height_inches` -- "How tall are you? (in inches)"
+- `father_height` -- "How tall is your birth father? (in inches)"
+- `mother_height` -- "How tall is your birth mother? (in inches)"
+- `exercise` -- "Approximately, how many minutes do you spend exercising per week?"
+- `athlete` -- "Are you a student athlete? (No, Yes)"
+
+
+```{r}
+glimpse(survey)
+```
+
+```{r}
+skim(survey)
+```
+
+
+## Submit
+
+Once you are finished:
+
+-   Click "Check submissions" to make sure all questions and exercises are submitted -- **Un-submitted questions will receive a 0.**
+-   Once all questions/exercises are submitted click the **Lock Exam** button. Once you click this you will not be able to make any changes to your exam!
+-   Once the lock is pressed a **Download Exam** option will become available,
+-   Download and **Check your HTML!**
+-   Upload the html to Canvas.
+
+```{r}
+lock_check_ui(id = "lock")
+```
+<br>
+```{r}
+lock_button_ui(id = "lock")
+```

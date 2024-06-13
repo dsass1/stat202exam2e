@@ -1,0 +1,1048 @@
+quarter,gender_ident,school_year,num_party,fav_drink,personality,campus_housing,height_inches,mother_height,father_height,exercise,athlete
+fall 2023,Female,Sophomore,0,don't_drink,Extrovert,South campus,69,66,73,240,No
+fall 2023,Female,Sophomore,7,hard_liquor,Extrovert,North campus,62,63,61,90,No
+fall 2023,Female,First year,3,hard_liquor,Introvert,North campus,66,67,69,30,No
+fall 2023,Male,Sophomore,3,don't_drink,Introvert,South campus,72,61,70,8,No
+fall 2023,Female,First year,0,don't_drink,Introvert,South campus,64,64,72,30,No
+fall 2023,Female,Junior,3,hard_liquor,Extrovert,South campus,67,66,72,2,No
+fall 2023,Female,First year,3,hard_liquor,Extrovert,North campus,67,65,74,NA,Yes
+fall 2023,Female,Sophomore,1,hard_liquor,Extrovert,South campus,64,63,67,1,No
+fall 2023,Male,Sophomore,2,hard_liquor,Introvert,South campus,NA,NA,NA,300,No
+fall 2023,Female,First year,1,don't_drink,Extrovert,South campus,59,61,65,500,No
+fall 2023,Female,First year,7,wine,Extrovert,North campus,NA,NA,NA,220,No
+fall 2023,Female,Junior,NA,hard_liquor,Extrovert,South campus,NA,NA,NA,NA,No
+fall 2023,Female,First year,2,hard_liquor,Introvert,South campus,65,63,73,180,No
+fall 2023,Female,First year,2,hard_liquor,Introvert,South campus,62,64,NA,800,No
+fall 2023,Female,First year,2,wine,Introvert,South campus,64,67,65,240,No
+fall 2023,Female,Sophomore,1,hard_liquor,Extrovert,South campus,NA,NA,NA,0,No
+fall 2023,Female,Sophomore,5,beer,Extrovert,South campus,NA,NA,NA,NA,No
+fall 2023,Male,Junior,2,don't_drink,Extrovert,Neither,70,63,71,25,No
+fall 2023,Female,First year,3,hard_liquor,Extrovert,South campus,NA,NA,NA,180,No
+fall 2023,Male,Sophomore,3,hard_liquor,Extrovert,South campus,67,60,70,300,No
+fall 2023,Male,First year,8,don't_drink,Extrovert,North campus,71.5,64,70,120,No
+fall 2023,Female,Junior,4,hard_liquor,Introvert,Neither,NA,NA,NA,0,No
+fall 2023,Female,Senior,2,beer,Extrovert,Neither,62,62,NA,200,No
+fall 2023,Female,Sophomore,1,hard_liquor,Introvert,South campus,64,65,67,480,No
+fall 2023,Male,Sophomore,3,wine,Extrovert,North campus,NA,NA,NA,2100,Yes
+fall 2023,Female,First year,0,don't_drink,Extrovert,North campus,65,64,NA,1200,Yes
+fall 2023,Male,Senior,4,hard_liquor,Introvert,Neither,70,63,69,240,No
+fall 2023,Female,First year,5,don't_drink,Extrovert,North campus,65,66,75,120,No
+fall 2023,Male,First year,2,don't_drink,Introvert,North campus,NA,NA,NA,NA,Yes
+fall 2023,Female,Sophomore,0,beer,Introvert,North campus,NA,NA,NA,NA,Yes
+fall 2023,Female,Senior,0,don't_drink,Introvert,Neither,62,61,NA,0,No
+fall 2023,Male,Sophomore,0,don't_drink,Introvert,South campus,NA,NA,NA,480,No
+fall 2023,Female,Sophomore,6,wine,Extrovert,South campus,64,65,71,450,No
+fall 2023,Female,First year,3,hard_liquor,Introvert,North campus,NA,NA,NA,NA,No
+fall 2023,Female,First year,1,hard_liquor,Extrovert,South campus,61,64,72,270,No
+fall 2023,Male,First year,1,don't_drink,Introvert,South campus,74,66,71,210,No
+fall 2023,Female,First year,2,hard_liquor,Extrovert,North campus,70,64,69,120,No
+fall 2023,Female,First year,25,hard_liquor,Extrovert,North campus,NA,NA,NA,480,No
+fall 2023,Female,First year,0,beer,Introvert,South campus,64,61,67,540,No
+fall 2023,Female,Senior,2,hard_liquor,Extrovert,Neither,NA,NA,NA,NA,Yes
+fall 2023,Female,First year,1,don't_drink,Extrovert,South campus,64,63,64,300,No
+fall 2023,Female,Sophomore,5,don't_drink,Introvert,South campus,NA,NA,NA,0,No
+fall 2023,Female,First year,0,don't_drink,Introvert,North campus,64,63,NA,NA,No
+fall 2023,Male,Sophomore,5,hard_liquor,Extrovert,South campus,68,64,73,150,No
+fall 2023,Male,Sophomore,6,beer,Extrovert,South campus,70,61,66,250,No
+fall 2023,Male,Junior,2,beer,Extrovert,Neither,67,59,67,850,No
+fall 2023,Female,First year,7,hard_liquor,Extrovert,North campus,69.5,72.5,NA,30000,No
+fall 2023,Male,First year,3,don't_drink,Extrovert,South campus,NA,NA,NA,360,No
+fall 2023,Female,First year,0,don't_drink,Introvert,South campus,NA,NA,NA,NA,No
+fall 2023,Female,Sophomore,3,hard_liquor,Extrovert,North campus,69,65,75,1500,Yes
+fall 2023,Female,Sophomore,11,hard_liquor,Extrovert,South campus,62,65,68,360,No
+fall 2023,Female,Junior,0,don't_drink,Introvert,Neither,63,NA,NA,120,No
+fall 2023,Female,First year,4,don't_drink,Extrovert,South campus,65,64,68,8,No
+fall 2023,Female,Sophomore,6,don't_drink,Extrovert,North campus,64,66,69,0,No
+fall 2023,Male,First year,0,don't_drink,Introvert,North campus,70,63,68,NA,No
+fall 2023,Female,Sophomore,NA,don't_drink,Introvert,South campus,NA,NA,NA,NA,No
+fall 2023,Male,Sophomore,0,don't_drink,Extrovert,North campus,71,66,68,400,No
+fall 2023,Male,Junior,4,beer,Introvert,Neither,70,66,71,400,No
+fall 2023,Male,Senior,15,beer,Introvert,South campus,70,64,72,2600,Yes
+fall 2023,Female,Sophomore,1,hard_liquor,Extrovert,South campus,65,63,67,200,No
+fall 2023,Male,Junior,0,don't_drink,Introvert,Neither,70,63,67,150,No
+fall 2023,Female,Junior,3,wine,Introvert,Neither,66,64,75,200,No
+fall 2023,Female,Sophomore,1,don't_drink,Introvert,South campus,66,63,70,200,No
+fall 2023,Male,Sophomore,3,hard_liquor,Extrovert,North campus,72,64,68,30,Yes
+fall 2023,Female,First year,3,don't_drink,Extrovert,North campus,68,66,71,120,No
+fall 2023,Female,Sophomore,0,don't_drink,Introvert,South campus,NA,NA,NA,30,No
+fall 2023,Female,Junior,1,don't_drink,Introvert,North campus,66,70,73,60,No
+fall 2023,Female,First year,15,don't_drink,Introvert,South campus,NA,NA,NA,NA,No
+fall 2023,Female,Sophomore,15,beer,Extrovert,South campus,NA,NA,NA,420,No
+fall 2023,Male,First year,3,hard_liquor,Extrovert,South campus,72,66,70,60,No
+fall 2023,Female,Sophomore,5,hard_liquor,Extrovert,North campus,60,58,64,120,No
+fall 2023,Female,Junior,0,don't_drink,Extrovert,Neither,68,67,74,250,No
+fall 2023,Female,First year,3,hard_liquor,Introvert,South campus,67,65,76,220,No
+fall 2023,Female,First year,2,hard_liquor,Extrovert,North campus,63,63,69,240,No
+fall 2023,Male,Junior,2,hard_liquor,Extrovert,Neither,74,65,67,350,No
+fall 2023,Female,Sophomore,0,don't_drink,Extrovert,South campus,NA,NA,NA,100,No
+fall 2023,Male,First year,0.1,don't_drink,Introvert,North campus,69,63,69,140,No
+fall 2023,Male,Sophomore,6,beer,Extrovert,North campus,71,65,75,450,No
+fall 2023,Female,First year,2,wine,Extrovert,North campus,NA,NA,NA,120,No
+fall 2023,Female,First year,3,hard_liquor,Introvert,North campus,64,62,70,150,No
+fall 2023,Female,First year,0,don't_drink,Introvert,North campus,65,66,71,60,No
+fall 2023,Female,First year,6,hard_liquor,Introvert,North campus,66,67,71,NA,No
+fall 2023,Female,Senior,0,wine,Introvert,South campus,NA,NA,NA,60,No
+fall 2023,Female,Sophomore,3,hard_liquor,Introvert,South campus,64,64,68,60,No
+fall 2023,Male,Sophomore,4,don't_drink,Introvert,North campus,74,66,66,2100,Yes
+fall 2023,Female,Sophomore,3,hard_liquor,Extrovert,North campus,NA,NA,NA,1500,Yes
+fall 2023,Male,Sophomore,2,beer,Extrovert,North campus,NA,NA,NA,60000,Yes
+fall 2023,Female,Sophomore,NA,don't_drink,Introvert,North campus,65,62,72,350,No
+fall 2023,Male,Sophomore,8,hard_liquor,Introvert,North campus,72,62,70,200,No
+fall 2023,Female,First year,3,hard_liquor,Introvert,South campus,64,65,72,450,No
+fall 2023,Female,First year,4,hard_liquor,Extrovert,South campus,68,67,74,360,No
+fall 2023,Female,First year,4,don't_drink,Introvert,South campus,61,64,67,70,No
+fall 2023,Female,First year,1,don't_drink,Introvert,South campus,62,NA,NA,210,No
+fall 2023,Female,First year,8,don't_drink,Introvert,South campus,NA,NA,NA,210,No
+fall 2023,Male,First year,1,don't_drink,Extrovert,North campus,72,67,69,1200,Yes
+fall 2023,Male,First year,2,wine,Extrovert,South campus,NA,NA,NA,NA,No
+fall 2023,Female,First year,NA,hard_liquor,Extrovert,South campus,65,64,72,400,No
+fall 2023,Male,First year,2,don't_drink,Introvert,North campus,72,70,71,410,No
+fall 2023,Female,First year,8,wine,Introvert,North campus,NA,NA,NA,NA,No
+fall 2023,Male,First year,0,don't_drink,Introvert,South campus,69,59,68,720,No
+fall 2023,Male,First year,2,hard_liquor,Extrovert,South campus,NA,NA,NA,240,No
+fall 2023,Female,Sophomore,3,hard_liquor,Extrovert,North campus,67,61,73,1200,Yes
+fall 2023,Female,First year,6,hard_liquor,Extrovert,North campus,NA,NA,NA,20,Yes
+fall 2023,Female,Sophomore,6,hard_liquor,Introvert,North campus,NA,NA,NA,20,Yes
+fall 2023,Male,First year,10,beer,Introvert,North campus,NA,NA,NA,300,No
+fall 2023,Male,First year,1,don't_drink,Extrovert,North campus,72,65,75,480,No
+fall 2023,Male,Sophomore,0,don't_drink,Introvert,South campus,68,62,67,5,No
+fall 2023,Male,Sophomore,2,hard_liquor,Extrovert,South campus,64,NA,NA,30,No
+fall 2023,Female,Senior,2,hard_liquor,Introvert,Neither,67,69,71,180,No
+fall 2023,Female,First year,2,wine,Extrovert,North campus,66,70,72,120,No
+fall 2023,Male,First year,1,don't_drink,Extrovert,South campus,69,69,69,300,No
+fall 2023,Female,First year,1,don't_drink,Introvert,South campus,NA,NA,NA,120,No
+fall 2023,Female,First year,4,hard_liquor,Extrovert,South campus,NA,NA,NA,4,No
+fall 2023,Female,Sophomore,11,wine,Extrovert,South campus,63,64,70,8,No
+fall 2023,Female,First year,0,don't_drink,Extrovert,North campus,60,62,67,35,No
+fall 2023,Female,First year,1,hard_liquor,Introvert,South campus,66,64,70,250,No
+fall 2023,Female,First year,4,hard_liquor,Introvert,North campus,63,59,71,90,No
+fall 2023,Male,Sophomore,1,hard_liquor,Extrovert,South campus,77,69,72,325,No
+fall 2023,Female,Sophomore,NA,hard_liquor,Introvert,South campus,NA,NA,NA,700,No
+fall 2023,Female,First year,8,hard_liquor,Extrovert,North campus,64,65,68,480,No
+fall 2023,Female,Junior,10,don't_drink,Introvert,Neither,NA,NA,NA,0,No
+fall 2023,Female,Junior,5,hard_liquor,Extrovert,South campus,69,63,73,300,No
+fall 2023,Male,Sophomore,3,don't_drink,Extrovert,North campus,65,63,69,120,No
+fall 2023,Female,First year,8,hard_liquor,Extrovert,North campus,64,62,70,480,No
+fall 2023,Male,First year,1,hard_liquor,Introvert,North campus,73,62,80,90,No
+fall 2023,Male,Sophomore,0,don't_drink,Introvert,North campus,74,66,70,0,No
+fall 2023,Male,Sophomore,2,beer,Introvert,South campus,67,64,66,68,No
+fall 2023,Male,First year,0,beer,Introvert,North campus,68,NA,NA,450,No
+fall 2023,Male,First year,9,don't_drink,Introvert,North campus,68,NA,NA,300,No
+fall 2023,Female,Sophomore,20,beer,Extrovert,North campus,NA,NA,NA,NA,Yes
+fall 2023,Male,First year,0,don't_drink,Introvert,South campus,69,64,67,120,No
+fall 2023,Female,Junior,10,don't_drink,Introvert,Neither,NA,NA,NA,NA,Yes
+fall 2023,Male,First year,3,beer,Introvert,North campus,74,NA,74,160,No
+fall 2023,Female,Senior,3,hard_liquor,Extrovert,Neither,65,63,72,180,No
+fall 2023,Female,First year,0,don't_drink,Introvert,South campus,67,66,71,15,No
+fall 2023,Female,Sophomore,3,hard_liquor,Extrovert,South campus,66,60,66,150,No
+fall 2023,Female,Sophomore,1,wine,Introvert,South campus,NA,NA,NA,240,No
+fall 2023,Female,Sophomore,4,wine,Introvert,South campus,NA,NA,NA,120,No
+fall 2023,Female,Sophomore,10,hard_liquor,Extrovert,South campus,65,62,NA,NA,No
+fall 2023,Male,Junior,7,don't_drink,Introvert,South campus,72,65,70,120,No
+fall 2023,Female,First year,5,don't_drink,Introvert,South campus,NA,NA,NA,NA,No
+fall 2023,Female,Sophomore,6,hard_liquor,Extrovert,South campus,70,66,73,6,No
+fall 2023,Female,Sophomore,10,don't_drink,Extrovert,South campus,62,NA,NA,100,No
+fall 2023,Female,Junior,1,hard_liquor,Extrovert,North campus,67,64,70,180,No
+fall 2023,Male,First year,4,hard_liquor,Extrovert,North campus,74,63,72,7,No
+fall 2023,Female,Sophomore,11,hard_liquor,Introvert,South campus,67,63,72,140,No
+fall 2023,Female,First year,2,wine,Extrovert,North campus,66,70,71,250,No
+fall 2023,Female,First year,2,don't_drink,Extrovert,North campus,64,61,69,120,No
+fall 2023,Male,Junior,5,beer,Extrovert,Neither,70,67,68,120,No
+fall 2023,Female,First year,5,hard_liquor,Extrovert,South campus,NA,NA,NA,250,No
+fall 2023,Female,First year,1,hard_liquor,Extrovert,South campus,61,62,68,NA,No
+fall 2023,Female,First year,4,beer,Extrovert,South campus,NA,NA,NA,120,No
+fall 2023,Female,Senior,4,hard_liquor,Introvert,North campus,65,NA,NA,30,No
+fall 2023,Male,Sophomore,12,beer,Extrovert,North campus,76,65,72,NA,Yes
+fall 2023,Male,Sophomore,5,hard_liquor,Introvert,North campus,NA,NA,NA,NA,No
+fall 2023,Female,First year,2,don't_drink,Introvert,South campus,64,69,69,180,No
+fall 2023,Female,First year,4,don't_drink,Introvert,North campus,66,64,70,240,No
+fall 2023,Male,Other,10,hard_liquor,Introvert,North campus,73,70,70,150,No
+fall 2023,Male,Junior,5,wine,Extrovert,North campus,76,71,71,180,Yes
+fall 2023,Male,Sophomore,0,don't_drink,Introvert,South campus,68,62,66,5,No
+fall 2023,Female,Junior,1,hard_liquor,Introvert,South campus,68,67,70,180,No
+fall 2023,Female,First year,2,hard_liquor,Extrovert,North campus,64,61,68,420,No
+fall 2023,Male,Sophomore,9,wine,Introvert,North campus,74,64,70,450,No
+fall 2023,Female,First year,8,hard_liquor,Extrovert,North campus,66,63,71,420,No
+fall 2023,Female,First year,4,don't_drink,Extrovert,North campus,68,67,74,15,Yes
+fall 2023,Female,Sophomore,2,wine,Extrovert,North campus,65,65,71,20,Yes
+fall 2023,Female,First year,0,don't_drink,Extrovert,North campus,NA,NA,NA,30,No
+fall 2023,Female,First year,0,don't_drink,Introvert,South campus,62,59,70,0,No
+fall 2023,Male,First year,2,hard_liquor,Extrovert,North campus,67,63,73,180,No
+fall 2023,Male,Sophomore,0,don't_drink,Extrovert,South campus,71,65,68,340,No
+fall 2023,Female,Sophomore,0,don't_drink,Extrovert,North campus,64.6,63.4,69.3,300,No
+fall 2023,Male,Senior,10,wine,Extrovert,Neither,74,NA,73,450,No
+fall 2023,Female,Senior,10,hard_liquor,Introvert,Neither,74,68,64,160,No
+fall 2023,Male,Sophomore,2,beer,Introvert,South campus,71,NA,70,60,No
+fall 2023,Male,Sophomore,6,beer,Extrovert,North campus,NA,NA,NA,360,No
+fall 2023,Female,Sophomore,1,hard_liquor,Introvert,South campus,64,66,70,8,No
+fall 2023,Female,First year,4,hard_liquor,Extrovert,South campus,69,68,69,120,No
+fall 2023,Female,Junior,2,don't_drink,Introvert,North campus,NA,NA,NA,10,No
+summer 2023,Female,First year,6,don't_drink,Extrovert,North campus,68,69,71,1200,Yes
+summer 2023,Female,First year,3,hard_liquor,Extrovert,South campus,63.5,62,72,60,No
+summer 2023,Female,First year,1,hard_liquor,Introvert,North campus,63,64,70,300,No
+summer 2023,Female,Sophomore,10,don't_drink,Extrovert,North campus,NA,NA,NA,10,No
+summer 2023,Female,Sophomore,2,don't_drink,Extrovert,North campus,63,63,71,300,Yes
+summer 2023,Female,Sophomore,1,don't_drink,Introvert,South campus,64,62,70,300,No
+summer 2023,Female,Junior,3,don't_drink,Extrovert,North campus,67,NA,NA,300,No
+summer 2023,Female,Sophomore,8,hard_liquor,Introvert,Neither,67,67,71,NA,No
+summer 2023,Male,Sophomore,2,don't_drink,Introvert,South campus,NA,NA,NA,NA,No
+summer 2023,Female,First year,NA,don't_drink,Extrovert,North campus,62,60,NA,60,No
+summer 2023,Male,Junior,10,don't_drink,Introvert,Neither,72,NA,NA,NA,No
+summer 2023,Female,Junior,7,wine,Introvert,Neither,60,64,NA,30,No
+summer 2023,Female,Junior,7,don't_drink,Introvert,Neither,NA,NA,NA,NA,Yes
+summer 2023,Male,Junior,0,hard_liquor,Extrovert,North campus,NA,NA,NA,480,Yes
+summer 2023,Male,Junior,0,hard_liquor,Introvert,Neither,81,69,79,480,Yes
+summer 2023,Male,First year,20,beer,Introvert,Neither,74,NA,69,180,No
+summer 2023,Female,First year,3,don't_drink,Introvert,North campus,77,72,83,500,Yes
+summer 2023,Male,Sophomore,NA,don't_drink,Introvert,North campus,NA,NA,NA,NA,Yes
+summer 2023,Male,Junior,NA,beer,Extrovert,Neither,NA,67,77,NA,Yes
+summer 2023,Male,Sophomore,20,beer,Introvert,North campus,75,69,72,NA,Yes
+summer 2023,Male,First year,1,beer,Extrovert,North campus,75,68,72,20,Yes
+summer 2023,Male,First year,20,beer,Introvert,North campus,NA,NA,NA,NA,Yes
+summer 2023,Female,Sophomore,0,hard_liquor,Introvert,South campus,64,63,72,150,No
+summer 2023,Female,Other,1,hard_liquor,Introvert,Neither,66,68,71,180,No
+summer 2023,Female,Sophomore,4,wine,Extrovert,North campus,NA,NA,NA,NA,Yes
+summer 2023,Female,First year,4,hard_liquor,Introvert,South campus,66,69,72,5,No
+summer 2023,Female,Junior,7,don't_drink,Extrovert,South campus,63,64,74,5,No
+summer 2023,Female,Sophomore,5,wine,Extrovert,North campus,NA,NA,NA,20,Yes
+summer 2023,Female,Sophomore,2,hard_liquor,Extrovert,North campus,64,NA,NA,600,Yes
+summer 2023,Male,First year,0,hard_liquor,Introvert,North campus,68,62,67,200,No
+summer 2023,Male,Sophomore,0,hard_liquor,Extrovert,North campus,NA,NA,NA,1800,Yes
+summer 2023,Male,Sophomore,0,hard_liquor,Introvert,North campus,76,68,72,1000,Yes
+summer 2023,Male,Sophomore,3,hard_liquor,Introvert,Neither,70,60,70,12,Yes
+summer 2023,Female,Junior,25,don't_drink,Introvert,Neither,75,69,72,1000,Yes
+summer 2023,Male,Sophomore,10,don't_drink,Extrovert,North campus,76,68,73,900,Yes
+summer 2023,Female,Junior,6,hard_liquor,Extrovert,Neither,NA,NA,NA,14,Yes
+summer 2023,Female,Sophomore,0,hard_liquor,Introvert,North campus,62,62,69,15,No
+summer 2023,Female,Sophomore,20,don't_drink,Extrovert,North campus,NA,NA,NA,600,Yes
+summer 2023,Male,Sophomore,6,wine,Extrovert,Neither,75,67,70,NA,Yes
+summer 2023,Female,Sophomore,0,hard_liquor,Extrovert,North campus,63,62,67,2000,No
+summer 2023,Male,Other,3,beer,Introvert,Neither,68,62,64,250,No
+summer 2023,Male,Junior,2,don't_drink,Extrovert,South campus,77,70,73,720,Yes
+summer 2023,Female,Junior,NA,don't_drink,Introvert,Neither,60,61,66,60,No
+summer 2023,Male,Sophomore,1,don't_drink,Introvert,South campus,66,62,64,360,No
+summer 2023,Male,Other,0,hard_liquor,Introvert,Neither,68,61,NA,150,Yes
+spring 2023,Female,First year,1,don't_drink,Introvert,North campus,64.5,65,67,60,No
+spring 2023,Female,Sophomore,3,hard_liquor,Introvert,South campus,64,63,70,120,No
+spring 2023,Female,First year,7,hard_liquor,Extrovert,North campus,65,66,72,300,No
+spring 2023,Female,First year,4,hard_liquor,Introvert,South campus,68,NA,NA,NA,No
+spring 2023,Female,Sophomore,1,hard_liquor,Introvert,South campus,63,62,70,400,No
+spring 2023,Female,First year,5,hard_liquor,Introvert,South campus,66,64,70,120,No
+spring 2023,Male,Sophomore,1,don't_drink,Extrovert,North campus,70,63,72,60,No
+spring 2023,Female,Sophomore,NA,wine,Extrovert,South campus,62,64,69,400,No
+spring 2023,Male,First year,1,don't_drink,Introvert,North campus,66,NA,68,450,No
+spring 2023,Female,First year,0,don't_drink,Introvert,South campus,63,64,69,120,No
+spring 2023,Male,First year,1,don't_drink,Extrovert,North campus,66,63,68,500,No
+spring 2023,Female,First year,2,beer,Introvert,South campus,NA,NA,NA,120,No
+spring 2023,Female,First year,1,wine,Introvert,South campus,67,67,72,300,No
+spring 2023,Male,Junior,3,hard_liquor,Extrovert,Neither,NA,NA,NA,150,No
+spring 2023,Female,Sophomore,1,don't_drink,Introvert,South campus,62,NA,NA,3,No
+spring 2023,Female,First year,2,don't_drink,Introvert,South campus,66,65,69,NA,No
+spring 2023,Female,First year,5,wine,Extrovert,South campus,63,68,70,420,No
+spring 2023,Male,First year,0,don't_drink,Extrovert,South campus,72,64,69,240,No
+spring 2023,Male,First year,8,hard_liquor,Introvert,North campus,73,64,71,8,No
+spring 2023,Female,First year,8,hard_liquor,Introvert,North campus,62,67,69,200,No
+spring 2023,Male,First year,0,don't_drink,Introvert,South campus,67,66,69,30,No
+spring 2023,Female,Sophomore,1,wine,Introvert,South campus,70,71,71,60,No
+spring 2023,Female,Sophomore,NA,wine,Introvert,South campus,63,60,68,10,No
+spring 2023,Female,Sophomore,2,hard_liquor,Introvert,South campus,67,65,69,180,No
+spring 2023,Female,First year,4,hard_liquor,Introvert,North campus,62,63,70,130,No
+spring 2023,Female,First year,6,wine,Introvert,North campus,67,68,75,120,No
+spring 2023,Female,First year,9,hard_liquor,Extrovert,North campus,67,66,71,3,No
+spring 2023,Male,Sophomore,1,hard_liquor,Introvert,North campus,72,66,68,0,No
+spring 2023,Female,First year,0,don't_drink,Introvert,North campus,66,62,73,120,No
+spring 2023,Male,Sophomore,NA,hard_liquor,Introvert,South campus,69,63,64,10,Yes
+spring 2023,Female,Sophomore,10,don't_drink,Extrovert,North campus,63,65,71,NA,No
+spring 2023,Female,Sophomore,4,beer,Extrovert,South campus,NA,NA,NA,250,No
+spring 2023,Male,Sophomore,2,hard_liquor,Extrovert,South campus,NA,NA,NA,360,No
+spring 2023,Female,First year,2,hard_liquor,Introvert,South campus,62,62,65,120,No
+spring 2023,Female,First year,4,hard_liquor,Extrovert,North campus,66,60,68,350,No
+spring 2023,Female,First year,4,wine,Extrovert,North campus,69,65,71,NA,No
+spring 2023,Female,First year,4,wine,Extrovert,North campus,62,65,69,NA,No
+spring 2023,Male,Sophomore,2,beer,Extrovert,North campus,66,58,65,6,No
+spring 2023,Male,First year,5,hard_liquor,Extrovert,North campus,71,68,74,360,No
+spring 2023,Female,First year,5,wine,Extrovert,North campus,63,68,70,120,No
+spring 2023,Female,Sophomore,25,hard_liquor,Extrovert,South campus,NA,NA,NA,60,No
+spring 2023,Male,Junior,NA,beer,Introvert,Neither,71,NA,76,600,No
+spring 2023,Female,Sophomore,7,hard_liquor,Introvert,South campus,63,60,68,120,No
+spring 2023,Female,Sophomore,3,hard_liquor,Extrovert,North campus,63,66,68,NA,No
+spring 2023,Female,First year,6,hard_liquor,Extrovert,North campus,67,70,72,60,No
+spring 2023,Female,Sophomore,1,don't_drink,Extrovert,South campus,70,66,74,210,No
+spring 2023,Male,First year,15,beer,Extrovert,North campus,74,64,78,3,No
+spring 2023,Female,First year,3,hard_liquor,Extrovert,North campus,NA,NA,NA,150,No
+spring 2023,Female,Senior,NA,wine,Introvert,Neither,NA,NA,NA,120,Yes
+spring 2023,Male,First year,1,don't_drink,Introvert,South campus,74,68,73,500,No
+spring 2023,Female,Sophomore,4,hard_liquor,Extrovert,South campus,NA,NA,NA,10,No
+spring 2023,Male,First year,3,wine,Extrovert,South campus,NA,NA,NA,275,No
+spring 2023,Male,First year,2,don't_drink,Extrovert,South campus,68,64,66,400,No
+spring 2023,Female,First year,2,hard_liquor,Extrovert,North campus,65,68,72,90,No
+spring 2023,Male,First year,1,wine,Introvert,South campus,66,62,65,120,No
+spring 2023,Male,Sophomore,6,beer,Introvert,South campus,NA,NA,NA,340,No
+spring 2023,Female,Sophomore,0,hard_liquor,Introvert,South campus,NA,NA,NA,240,No
+spring 2023,Female,Sophomore,6,hard_liquor,Introvert,South campus,69,67,70,120,No
+spring 2023,Female,Junior,0,don't_drink,Introvert,South campus,63,64,69,315,No
+spring 2023,Female,Senior,2,wine,Extrovert,North campus,67,68,72,900,Yes
+spring 2023,Male,Sophomore,3,beer,Extrovert,South campus,73,63,73,60,No
+spring 2023,Male,First year,25,hard_liquor,Extrovert,North campus,75,67,71,180,No
+spring 2023,Female,First year,6,don't_drink,Extrovert,South campus,65,67,71,240,No
+spring 2023,Female,Junior,0,don't_drink,Introvert,Neither,65,63,69,120,No
+spring 2023,Female,Junior,5,hard_liquor,Extrovert,Neither,67.5,NA,NA,350,No
+spring 2023,Female,First year,0,don't_drink,Introvert,South campus,NA,NA,NA,30,No
+spring 2023,Female,First year,4,hard_liquor,Extrovert,South campus,60,58,64,150,No
+spring 2023,Male,First year,2,don't_drink,Extrovert,South campus,NA,NA,NA,NA,No
+spring 2023,Female,Sophomore,1,don't_drink,Introvert,North campus,63,61,69,0,No
+spring 2023,Female,Junior,0,don't_drink,Extrovert,North campus,68,74,67,9,No
+spring 2023,Female,First year,3,hard_liquor,Introvert,North campus,68,63,74,250,No
+spring 2023,Female,Sophomore,NA,wine,Extrovert,South campus,64,67,71,360,No
+spring 2023,Female,First year,NA,wine,Introvert,North campus,64,59.5,66,400,No
+spring 2023,Female,Sophomore,2,hard_liquor,Introvert,South campus,63,65,68,200,No
+spring 2023,Female,Sophomore,2,hard_liquor,Introvert,North campus,67,67,67,840,Yes
+spring 2023,Male,First year,2,beer,Introvert,South campus,70,56,71,500,No
+spring 2023,Female,First year,0,don't_drink,Extrovert,South campus,61,62,67,60,No
+spring 2023,Female,First year,3,don't_drink,Extrovert,South campus,66,66,73,600,No
+spring 2023,Female,First year,1,hard_liquor,Extrovert,South campus,63.7,63.7,66.9,600,No
+spring 2023,Female,First year,4,hard_liquor,Extrovert,North campus,68,67,70,180,No
+spring 2023,Female,First year,3,hard_liquor,Introvert,South campus,69,70,76,240,No
+spring 2023,Female,First year,4,beer,Introvert,North campus,70,64,71,180,No
+spring 2023,Female,Sophomore,4,hard_liquor,Introvert,South campus,66,65,69,240,Yes
+spring 2023,Male,Junior,4,beer,Introvert,North campus,71,62,68,200,No
+spring 2023,Male,First year,1,don't_drink,Introvert,South campus,70,NA,65,120,No
+spring 2023,Female,First year,1,hard_liquor,Introvert,North campus,66,63,66,360,No
+spring 2023,Female,Sophomore,2,hard_liquor,Extrovert,South campus,68,62,75,30,No
+spring 2023,Female,Sophomore,0,don't_drink,Extrovert,North campus,61,63,68,0,No
+spring 2023,Male,Junior,8,beer,Introvert,Neither,60,NA,59,360,Yes
+spring 2023,Male,Junior,0,don't_drink,Introvert,Neither,73,59,68,20,No
+spring 2023,Female,First year,3,don't_drink,Extrovert,South campus,70,67.25,74,120,No
+spring 2023,Female,Sophomore,10,hard_liquor,Extrovert,North campus,NA,NA,NA,300,No
+spring 2023,Male,First year,3,hard_liquor,Introvert,North campus,69,68,65,60,No
+spring 2023,Female,First year,2,hard_liquor,Introvert,South campus,61,63,66,250,No
+spring 2023,Female,Other,0,hard_liquor,Introvert,Neither,66,67,68,0,No
+spring 2023,Male,First year,0,wine,Introvert,South campus,72,67,70,240,No
+spring 2023,Female,Sophomore,1,hard_liquor,Introvert,North campus,63,68,70,180,No
+spring 2023,Female,First year,0,don't_drink,Extrovert,South campus,64,60,67,2,No
+spring 2023,Female,First year,4,hard_liquor,Extrovert,South campus,68,61,69,120,No
+spring 2023,Female,First year,NA,wine,Introvert,North campus,65,65,76,240,No
+spring 2023,Male,First year,0,don't_drink,Introvert,North campus,69,65,67,30,No
+spring 2023,Female,Sophomore,4,hard_liquor,Extrovert,North campus,NA,NA,NA,250,No
+spring 2023,Female,First year,5,don't_drink,Introvert,South campus,61,63,67,60,No
+spring 2023,Male,First year,6,hard_liquor,Extrovert,North campus,72,64,70,220,No
+spring 2023,Female,First year,5,don't_drink,Extrovert,North campus,68,65,73,60,No
+spring 2023,Female,First year,0,don't_drink,Introvert,South campus,62,66,67,60,No
+spring 2023,Female,First year,1,don't_drink,Introvert,South campus,68.5,65,68,150,No
+spring 2023,Female,Sophomore,0,don't_drink,Introvert,South campus,63,60,68,60,No
+spring 2023,Female,Sophomore,4,hard_liquor,Extrovert,North campus,65,64,68,120,No
+spring 2023,Female,Sophomore,4,hard_liquor,Extrovert,North campus,67,65,69,120,No
+spring 2023,Female,First year,4,hard_liquor,Introvert,North campus,64.5,60,67,60,No
+spring 2023,Female,First year,3,hard_liquor,Extrovert,South campus,63,NA,NA,30,No
+spring 2023,Female,First year,1,hard_liquor,Introvert,North campus,66,63,71,120,No
+spring 2023,Female,First year,NA,don't_drink,Extrovert,South campus,63,62,66,500,No
+spring 2023,Male,First year,6,beer,Extrovert,North campus,68,64,70,300,No
+spring 2023,Female,Sophomore,5,hard_liquor,Introvert,North campus,65,64,70,180,No
+spring 2023,Female,First year,3,hard_liquor,Extrovert,North campus,70,65,70,30,No
+spring 2023,Male,First year,4,don't_drink,Introvert,North campus,72,63,72,360,No
+spring 2023,Female,First year,1,don't_drink,Introvert,South campus,64.5,62,71,20,No
+spring 2023,Female,First year,1,don't_drink,Introvert,South campus,69,68,66,NA,No
+spring 2023,Female,Sophomore,0,wine,Extrovert,South campus,NA,NA,NA,3780,No
+spring 2023,Male,First year,4,hard_liquor,Introvert,South campus,73,66,72,40,No
+spring 2023,Female,First year,4,hard_liquor,Introvert,South campus,NA,NA,NA,0,No
+spring 2023,Female,First year,0,hard_liquor,Introvert,South campus,62,61,65,210,No
+spring 2023,Female,Sophomore,10,hard_liquor,Extrovert,North campus,66,71,70,200,No
+spring 2023,Female,Sophomore,2,hard_liquor,Extrovert,South campus,64,64,72,180,No
+spring 2023,Female,Sophomore,1,don't_drink,Extrovert,South campus,67,65,69,60,No
+spring 2023,Female,Sophomore,2,hard_liquor,Introvert,South campus,64,63,67,30,No
+spring 2023,Female,First year,0,hard_liquor,Introvert,South campus,63,65,NA,210,No
+spring 2023,Female,First year,0,don't_drink,Introvert,South campus,67,69,NA,NA,No
+spring 2023,Female,First year,2,don't_drink,Extrovert,South campus,61,61,71,20,No
+spring 2023,Female,Junior,1,hard_liquor,Introvert,Neither,62,NA,NA,60,No
+spring 2023,Female,Sophomore,2,hard_liquor,Introvert,South campus,62,60,68,120,No
+spring 2023,Female,Senior,2,hard_liquor,Introvert,Neither,60,63,65,90,No
+spring 2023,Male,First year,NA,hard_liquor,Extrovert,North campus,74,69,72,150,No
+spring 2023,Female,Sophomore,1,hard_liquor,Introvert,South campus,NA,NA,NA,180,No
+spring 2023,Female,First year,1,hard_liquor,Extrovert,South campus,65,62,70,2,No
+spring 2023,Female,Junior,4,hard_liquor,Introvert,Neither,66,63,76,300,No
+spring 2023,Male,First year,7,don't_drink,Introvert,South campus,71,NA,NA,420,Yes
+spring 2023,Female,Junior,2,wine,Introvert,Neither,67,69,71,200,No
+spring 2023,Male,Sophomore,2,beer,Introvert,South campus,72,NA,NA,NA,No
+spring 2023,Male,First year,6,hard_liquor,Extrovert,North campus,72,64,68,240,No
+winter 2023,Female,First year,3,wine,Extrovert,South campus,63,60,72,360,No
+winter 2023,Male,First year,8,beer,Extrovert,North campus,75,64,71,400,No
+winter 2023,Female,Sophomore,8,don't_drink,Extrovert,South campus,67,65,68,420,No
+winter 2023,Male,Sophomore,3,wine,Extrovert,North campus,68,62,64,300,No
+winter 2023,Male,Sophomore,3,don't_drink,Introvert,North campus,74,67,78,400,No
+winter 2023,Female,Sophomore,6,wine,Extrovert,South campus,65,64,72,60,No
+winter 2023,Female,First year,2,wine,Introvert,South campus,64,62,66,210,No
+winter 2023,Male,Sophomore,4,don't_drink,Extrovert,South campus,65,59,64,60,No
+winter 2023,Female,Sophomore,1,don't_drink,Introvert,South campus,NA,NA,NA,0,No
+winter 2023,Male,First year,0,hard_liquor,Introvert,North campus,64,NA,NA,30,No
+winter 2023,Female,First year,5,wine,Introvert,South campus,65.75,66,76.8,270,No
+winter 2023,Male,First year,4,don't_drink,Extrovert,North campus,67,65,66,180,No
+winter 2023,Female,First year,3,hard_liquor,Extrovert,North campus,65,61,70,60,No
+winter 2023,Male,First year,0,don't_drink,Introvert,South campus,69,61,66,120,No
+winter 2023,Male,First year,6,beer,Extrovert,North campus,75,65,74,120,Yes
+winter 2023,Female,Sophomore,10,wine,Introvert,South campus,66,64,69,20,No
+winter 2023,Female,First year,6,beer,Extrovert,North campus,62,68,68,150,No
+winter 2023,Male,First year,6,don't_drink,Introvert,South campus,72,67,73,30,No
+winter 2023,Male,Sophomore,0,hard_liquor,Extrovert,Neither,66,62,67,300,No
+winter 2023,Female,First year,0,hard_liquor,Introvert,North campus,60,NA,NA,60,No
+winter 2023,Female,Senior,0,hard_liquor,Introvert,North campus,71,70,74,120,No
+winter 2023,Female,Sophomore,2,hard_liquor,Introvert,North campus,64,60,65,0,No
+winter 2023,Male,First year,0,hard_liquor,Introvert,North campus,60,NA,NA,40,No
+winter 2023,Female,First year,2,hard_liquor,Introvert,South campus,65,63,72,120,No
+winter 2023,Female,Sophomore,4,don't_drink,Extrovert,South campus,60,62,66,0,No
+winter 2023,Male,First year,5,hard_liquor,Extrovert,North campus,66,60,63,120,No
+winter 2023,Female,First year,0,hard_liquor,Introvert,South campus,65.5,64,69,360,No
+winter 2023,Female,First year,2,don't_drink,Extrovert,South campus,51,49,NA,180,No
+winter 2023,Female,Sophomore,1,don't_drink,Introvert,South campus,NA,NA,NA,350,No
+winter 2023,Female,First year,1,hard_liquor,Introvert,South campus,69,67,71,240,No
+winter 2023,Female,Sophomore,6,wine,Extrovert,North campus,80,70,78,30,Yes
+winter 2023,Female,Junior,0,hard_liquor,Introvert,Neither,64,64,69,450,Yes
+winter 2023,Female,First year,5,wine,Introvert,North campus,59,61,66,NA,No
+winter 2023,Female,First year,3,hard_liquor,Extrovert,North campus,NA,NA,NA,300,No
+winter 2023,Female,Sophomore,8,beer,Introvert,South campus,63,NA,NA,300,Yes
+winter 2023,Male,Senior,25,don't_drink,Introvert,Neither,73,69,72,1200,Yes
+winter 2023,Female,Junior,7,don't_drink,Extrovert,Neither,65,62,67,300,No
+winter 2023,Female,Junior,3,don't_drink,Extrovert,Neither,66,64,70,30,No
+winter 2023,Female,Sophomore,20,hard_liquor,Extrovert,North campus,63,61,71,60,No
+winter 2023,Female,Sophomore,2,don't_drink,Introvert,South campus,65,63,72,90,No
+winter 2023,Female,First year,3,don't_drink,Extrovert,North campus,70,68,75,30,No
+winter 2023,Female,First year,5,don't_drink,Introvert,South campus,NA,NA,NA,0,No
+winter 2023,Male,Junior,1,don't_drink,Introvert,South campus,70,62,70,0,No
+winter 2023,Female,Junior,8,wine,Introvert,Neither,67,65,71,420,No
+winter 2023,Male,First year,NA,don't_drink,Extrovert,South campus,75,67,72,60,No
+winter 2023,Female,First year,4,don't_drink,Introvert,North campus,66,64,66,10,No
+winter 2023,Female,First year,0,hard_liquor,Extrovert,South campus,67,64,70,360,No
+winter 2023,Male,First year,5,don't_drink,Introvert,South campus,69,62,67,300,No
+winter 2023,Female,Sophomore,0,hard_liquor,Extrovert,North campus,63.5,61,70,500,Yes
+winter 2023,Female,Sophomore,6,hard_liquor,Extrovert,North campus,67,65,72,370,No
+winter 2023,Female,First year,7,don't_drink,Extrovert,North campus,62,64,69,180,No
+winter 2023,Male,First year,0,hard_liquor,Introvert,North campus,63,61,62,360,No
+winter 2023,Male,Sophomore,1,beer,Introvert,South campus,72,66,66,0,No
+winter 2023,Female,Sophomore,0,hard_liquor,Introvert,South campus,67,64,71,240,No
+winter 2023,Female,First year,1,don't_drink,Introvert,South campus,68,65,74,120,No
+winter 2023,Female,Sophomore,12,don't_drink,Extrovert,South campus,67,66,69,180,No
+winter 2023,Female,First year,2,don't_drink,Introvert,North campus,64,61,73,120,No
+winter 2023,Female,First year,5,don't_drink,Introvert,North campus,NA,NA,NA,60,No
+winter 2023,Male,Sophomore,1,hard_liquor,Introvert,North campus,71,64,69,300,No
+winter 2023,Female,First year,0,hard_liquor,Introvert,South campus,68,66,72,180,No
+winter 2023,Male,Sophomore,3,wine,Introvert,North campus,70,64,67,10,No
+winter 2023,Female,First year,5,don't_drink,Extrovert,North campus,63,62,70,200,No
+winter 2023,Female,First year,6,don't_drink,Extrovert,North campus,69,67,73,180,No
+winter 2023,Female,First year,6,don't_drink,Introvert,South campus,64,62,71,10,No
+winter 2023,Female,First year,0,hard_liquor,Introvert,South campus,66,64,67,0,No
+winter 2023,Female,First year,5,don't_drink,Extrovert,North campus,NA,NA,NA,200,No
+winter 2023,Female,First year,0,hard_liquor,Introvert,South campus,65,62,73,130,No
+winter 2023,Male,First year,2,wine,Extrovert,North campus,75,67,70,500,No
+winter 2023,Male,Junior,NA,don't_drink,Introvert,North campus,71,64,70,300,No
+winter 2023,Male,Sophomore,2,hard_liquor,Introvert,South campus,72,66,70,50,No
+winter 2023,Female,Sophomore,3,don't_drink,Introvert,North campus,65,66,72,90,No
+winter 2023,Male,First year,8,don't_drink,Extrovert,North campus,70,62,69,1260,No
+winter 2023,Male,First year,7,don't_drink,Extrovert,North campus,74,64,73,180,No
+winter 2023,Female,First year,4,don't_drink,Introvert,North campus,62,62,63,180,No
+winter 2023,Male,First year,2,don't_drink,Extrovert,North campus,72,66,73,500,No
+winter 2023,Female,First year,8,wine,Extrovert,North campus,66,68,71,180,No
+winter 2023,Female,First year,4,don't_drink,Introvert,North campus,63,64,71,300,No
+winter 2023,Female,Sophomore,0,hard_liquor,Introvert,North campus,63,60,65,300,No
+winter 2023,Male,Sophomore,6,beer,Extrovert,South campus,71,66,69,300,No
+winter 2023,Female,Sophomore,6,hard_liquor,Extrovert,North campus,NA,NA,NA,5,No
+winter 2023,Male,Sophomore,0,hard_liquor,Introvert,South campus,69,60,65,0,No
+winter 2023,Male,Sophomore,2,don't_drink,Introvert,North campus,72,59,76,450,No
+winter 2023,Female,First year,0,hard_liquor,Introvert,South campus,64,61,75,200,No
+winter 2023,Female,Sophomore,4,don't_drink,Extrovert,South campus,NA,NA,NA,360,No
+winter 2023,Female,First year,6,don't_drink,Extrovert,North campus,68,67,71,160,No
+winter 2023,Female,Sophomore,2,wine,Introvert,South campus,65,62,68,45,No
+winter 2023,Female,First year,8,don't_drink,Extrovert,North campus,NA,NA,NA,NA,No
+winter 2023,Female,First year,3,wine,Introvert,North campus,66,63,67,170,No
+winter 2023,Male,Senior,12,don't_drink,Extrovert,South campus,70,65,70,480,No
+winter 2023,Male,First year,4,don't_drink,Introvert,South campus,66,63,66,90,No
+winter 2023,Male,Junior,2,hard_liquor,Extrovert,Neither,NA,NA,NA,20,No
+winter 2023,Female,First year,0,hard_liquor,Introvert,South campus,61,62,71,NA,No
+winter 2023,Male,Sophomore,3,hard_liquor,Introvert,North campus,69,NA,NA,1200,Yes
+winter 2023,Male,Junior,5,don't_drink,Extrovert,Neither,68,64,72,60,No
+winter 2023,Male,First year,2,hard_liquor,Extrovert,South campus,NA,NA,NA,NA,No
+winter 2023,Female,First year,6,don't_drink,Extrovert,North campus,65,66,70,NA,No
+winter 2023,Female,First year,0,hard_liquor,Introvert,South campus,65,65,70,0,No
+winter 2023,Female,First year,2,don't_drink,Extrovert,North campus,66,62,70,1200,Yes
+winter 2023,Female,Sophomore,15,don't_drink,Introvert,North campus,76,75,66,NA,Yes
+winter 2023,Female,First year,3,don't_drink,Introvert,North campus,70,66,69,160,No
+winter 2023,Female,First year,4,don't_drink,Introvert,North campus,NA,NA,NA,0,No
+winter 2023,Male,First year,3,don't_drink,Introvert,South campus,72,68,70,60,No
+winter 2023,Female,First year,12,don't_drink,Extrovert,South campus,NA,NA,NA,75,No
+winter 2023,Female,First year,4,don't_drink,Extrovert,North campus,70,67,75,300,No
+winter 2023,Female,First year,4,don't_drink,Introvert,South campus,69,67,71,180,No
+winter 2023,Male,First year,2,hard_liquor,Extrovert,South campus,NA,NA,NA,75,No
+winter 2023,Female,First year,2,don't_drink,Introvert,South campus,65,68,67,760,No
+winter 2023,Male,Junior,0,wine,Introvert,South campus,67,58,67,270,No
+winter 2023,Female,Sophomore,2,don't_drink,Introvert,South campus,63,67,67,240,No
+winter 2023,Female,First year,10,don't_drink,Introvert,South campus,68,61,73,180,No
+winter 2023,Female,Sophomore,1,hard_liquor,Introvert,North campus,57,63,69,0,No
+winter 2023,Female,Sophomore,0,hard_liquor,Introvert,South campus,65,66,64,0,No
+winter 2023,Female,First year,0,hard_liquor,Introvert,South campus,NA,NA,NA,NA,No
+winter 2023,Female,First year,2,hard_liquor,Extrovert,South campus,NA,NA,NA,NA,No
+winter 2023,Male,Sophomore,3,don't_drink,Extrovert,South campus,NA,NA,NA,NA,No
+winter 2023,Female,Sophomore,5,wine,Introvert,North campus,NA,NA,NA,120,No
+winter 2023,Female,First year,0,don't_drink,Introvert,South campus,NA,NA,NA,60,No
+winter 2023,Male,First year,4,don't_drink,Introvert,North campus,68,62,67,NA,No
+winter 2023,Female,First year,1,hard_liquor,Introvert,North campus,62,64,67,50,No
+winter 2023,Female,First year,2,don't_drink,Introvert,North campus,68,66,75,1200,Yes
+winter 2023,Female,First year,5,hard_liquor,Extrovert,South campus,NA,NA,NA,0,No
+winter 2023,Male,First year,1,hard_liquor,Introvert,North campus,72,60,66,310,No
+winter 2023,Male,Sophomore,2,don't_drink,Extrovert,South campus,NA,NA,NA,0,No
+winter 2023,Female,Sophomore,3,wine,Introvert,North campus,NA,NA,NA,NA,No
+winter 2023,Male,Sophomore,4,hard_liquor,Extrovert,North campus,69,63,68,600,Yes
+winter 2023,Female,First year,3,hard_liquor,Introvert,North campus,NA,NA,NA,180,No
+winter 2023,Female,Sophomore,3,don't_drink,Introvert,North campus,65,63,70,0,No
+winter 2023,Male,First year,3,wine,Extrovert,North campus,NA,NA,NA,240,No
+winter 2023,Female,Sophomore,1,wine,Extrovert,South campus,NA,NA,NA,1,No
+winter 2023,Female,First year,2,wine,Introvert,South campus,66,63,68,300,No
+winter 2023,Female,Sophomore,12,don't_drink,Extrovert,South campus,NA,NA,NA,120,No
+winter 2023,Female,First year,4,don't_drink,Extrovert,South campus,NA,NA,NA,120,No
+winter 2023,Female,Sophomore,15,don't_drink,Introvert,North campus,62,63,71,0,No
+winter 2023,Female,First year,5,don't_drink,Extrovert,North campus,65,65,72,150,No
+fall 2022,Male,First year,4,hard_liquor,Extrovert,South campus,66,NA,67,120,No
+fall 2022,Female,First year,0,hard_liquor,Introvert,South campus,64,64,68,120,No
+fall 2022,Male,Sophomore,4,beer,Extrovert,North campus,70,63,67,360,No
+fall 2022,Male,First year,1,hard_liquor,Extrovert,North campus,70,62,68,360,No
+fall 2022,Female,First year,2,don't_drink,Introvert,North campus,66,66,72,300,No
+fall 2022,Female,First year,2,don't_drink,Extrovert,North campus,64,63,71,550,No
+fall 2022,Female,Junior,4,don't_drink,Introvert,Neither,64,64,70,60,No
+fall 2022,Female,First year,2,don't_drink,Introvert,North campus,67,66,71,180,No
+fall 2022,Female,First year,6,beer,Extrovert,South campus,NA,NA,NA,90,No
+fall 2022,Female,First year,1,don't_drink,Introvert,South campus,66,61,74,80,No
+fall 2022,Female,First year,0,hard_liquor,Introvert,South campus,60,61,NA,120,No
+fall 2022,Female,Junior,2,wine,Introvert,Neither,65,68,77,NA,No
+fall 2022,Female,Sophomore,2,wine,Introvert,South campus,NA,NA,NA,NA,No
+fall 2022,Female,Sophomore,5,don't_drink,Introvert,North campus,64,NA,NA,5,Yes
+fall 2022,Female,Sophomore,8,don't_drink,Extrovert,North campus,NA,NA,NA,180200,No
+fall 2022,Male,Sophomore,5,don't_drink,Extrovert,South campus,NA,NA,NA,500,No
+fall 2022,Female,First year,2,beer,Introvert,North campus,65,64,64,20,Yes
+fall 2022,Male,First year,0,hard_liquor,Extrovert,North campus,NA,NA,NA,NA,Yes
+fall 2022,Female,Sophomore,8,don't_drink,Introvert,South campus,70,68,72,400,No
+fall 2022,Male,First year,2,beer,Introvert,North campus,74,66,74,150,No
+fall 2022,Male,Junior,4,don't_drink,Extrovert,Neither,NA,NA,NA,600,No
+fall 2022,Female,First year,0,hard_liquor,Extrovert,North campus,NA,NA,NA,NA,No
+fall 2022,Male,Sophomore,3,don't_drink,Extrovert,North campus,72,62,70,480,No
+fall 2022,Male,First year,1,hard_liquor,Extrovert,North campus,NA,NA,NA,400,No
+fall 2022,Male,Senior,2,don't_drink,Extrovert,Neither,75,70,73,180,No
+fall 2022,Female,First year,2,hard_liquor,Extrovert,South campus,63,63,66,500,No
+fall 2022,Female,Sophomore,3,wine,Extrovert,South campus,64,64,67,0,No
+fall 2022,Female,First year,4,don't_drink,Extrovert,North campus,71,70,75,120,No
+fall 2022,Female,Sophomore,0,hard_liquor,Extrovert,South campus,NA,NA,NA,200,No
+fall 2022,Female,Sophomore,8,beer,Introvert,South campus,67,67,72,180,No
+fall 2022,Female,Sophomore,6,wine,Extrovert,South campus,67,70,71,240,No
+fall 2022,Female,First year,1,hard_liquor,Introvert,South campus,63,61,65,200,No
+fall 2022,Female,Junior,0,beer,Introvert,South campus,67,63,69,60,No
+fall 2022,Male,First year,2,don't_drink,Introvert,South campus,NA,NA,NA,NA,No
+fall 2022,Female,Sophomore,4,hard_liquor,Extrovert,South campus,70,69,74,120,No
+fall 2022,Male,Sophomore,0,hard_liquor,Extrovert,South campus,67,65,69,180,No
+fall 2022,Female,Other,1,hard_liquor,Introvert,South campus,NA,NA,NA,30,No
+fall 2022,Female,First year,4,don't_drink,Extrovert,North campus,65,65,71,NA,No
+fall 2022,Male,Junior,25,wine,Introvert,Neither,77,68,72,2100,Yes
+fall 2022,Female,Senior,0,hard_liquor,Introvert,Neither,64,63,70,120,No
+fall 2022,Female,Sophomore,5,wine,Extrovert,North campus,67,70,69,270,No
+fall 2022,Female,First year,20,don't_drink,Introvert,North campus,69,65,74,20,Yes
+fall 2022,Female,Sophomore,5,don't_drink,Introvert,North campus,67,68,73,300,No
+fall 2022,Female,Sophomore,9,wine,Extrovert,South campus,NA,67,71,NA,No
+fall 2022,Female,First year,0,hard_liquor,Extrovert,South campus,60,62,71,30,No
+fall 2022,Female,Sophomore,2,hard_liquor,Extrovert,South campus,NA,NA,NA,120,No
+fall 2022,Male,Junior,6,don't_drink,Extrovert,Neither,NA,NA,NA,60,No
+fall 2022,Male,Sophomore,20,don't_drink,Extrovert,North campus,66,66,71,300,No
+fall 2022,Male,Junior,1,don't_drink,Extrovert,Neither,70,60,72,200,No
+fall 2022,Male,First year,2,don't_drink,Introvert,North campus,68,63,68,120,No
+fall 2022,Male,First year,4,beer,Extrovert,North campus,80,72,76.5,1080,Yes
+fall 2022,Female,First year,NA,hard_liquor,Introvert,South campus,65,63,69,60,No
+fall 2022,Male,Senior,7,don't_drink,Extrovert,Neither,67,61,73,200,No
+fall 2022,Female,First year,2,hard_liquor,Introvert,South campus,NA,NA,NA,30,No
+fall 2022,Male,First year,4,don't_drink,Introvert,North campus,72,56,74,1200,Yes
+fall 2022,Female,Sophomore,10,beer,Extrovert,North campus,NA,NA,NA,450,No
+fall 2022,Male,First year,2,hard_liquor,Introvert,South campus,68,63,65,6,No
+fall 2022,Female,Junior,2,don't_drink,Introvert,Neither,63.5,61,70,180,No
+fall 2022,Female,Senior,1,don't_drink,Extrovert,Neither,NA,NA,NA,150,No
+fall 2022,Female,First year,3,don't_drink,Extrovert,North campus,66,NA,NA,90,No
+fall 2022,Female,Senior,3,wine,Introvert,South campus,62,62,68,60,No
+fall 2022,Male,Sophomore,3,beer,Extrovert,North campus,71,67,60,400,No
+fall 2022,Male,Junior,4,don't_drink,Extrovert,North campus,69,63,71,1,No
+fall 2022,Male,Sophomore,0,hard_liquor,Introvert,North campus,69,NA,NA,180,No
+fall 2022,Female,Junior,1,wine,Introvert,Neither,NA,NA,NA,NA,No
+fall 2022,Female,First year,3,hard_liquor,Introvert,North campus,NA,NA,NA,240,No
+fall 2022,Female,First year,0,beer,Introvert,South campus,68.1,66.1,68.8,NA,No
+fall 2022,Male,Senior,0,don't_drink,Introvert,Neither,NA,NA,NA,240,Yes
+fall 2022,Male,First year,0,hard_liquor,Introvert,South campus,68,NA,NA,60,No
+fall 2022,Female,First year,0,hard_liquor,Introvert,South campus,68,67,70,200,No
+fall 2022,Female,First year,1,hard_liquor,Introvert,South campus,61.5,63,70,120,No
+fall 2022,Female,Junior,2,don't_drink,Extrovert,South campus,NA,NA,NA,NA,No
+fall 2022,Male,Sophomore,1,beer,Introvert,North campus,72,68,71,100,No
+fall 2022,Female,Senior,2,don't_drink,Extrovert,Neither,63,62,73,4,No
+fall 2022,Male,Junior,4,don't_drink,Extrovert,Neither,75,55,56,1200,Yes
+fall 2022,Male,First year,1,hard_liquor,Extrovert,North campus,77,71,75,20,No
+fall 2022,Male,Sophomore,0,hard_liquor,Introvert,North campus,70,61,66,420,No
+fall 2022,Male,Sophomore,8,beer,Extrovert,North campus,71,66,69,300,No
+fall 2022,Female,Sophomore,3,don't_drink,Extrovert,South campus,66,65,70,9,No
+fall 2022,Male,Sophomore,4,don't_drink,Extrovert,North campus,70,NA,NA,420,No
+fall 2022,Female,First year,NA,hard_liquor,Extrovert,North campus,66,63,76,20,Yes
+fall 2022,Female,Junior,2,hard_liquor,Introvert,South campus,NA,NA,NA,30,No
+fall 2022,Female,Sophomore,5,wine,Extrovert,South campus,NA,NA,NA,NA,No
+fall 2022,Female,Sophomore,10,don't_drink,Extrovert,North campus,64,62,68,420,No
+fall 2022,Female,First year,10,don't_drink,Extrovert,South campus,64,66,68,240,No
+fall 2022,Male,Sophomore,3,hard_liquor,Extrovert,South campus,NA,NA,NA,7,No
+fall 2022,Male,Sophomore,NA,don't_drink,Introvert,North campus,69,64,74,360,No
+fall 2022,Male,Junior,1,don't_drink,Extrovert,Neither,NA,NA,NA,NA,Yes
+fall 2022,Male,Sophomore,8,don't_drink,Extrovert,North campus,74,65,71,1000,Yes
+fall 2022,Male,First year,0,hard_liquor,Extrovert,North campus,48,NA,48,250,No
+fall 2022,Female,First year,7,don't_drink,Extrovert,South campus,64,63,68,360,No
+fall 2022,Male,Sophomore,6,beer,Introvert,South campus,74,65,69,60,No
+fall 2022,Female,Sophomore,5,don't_drink,Introvert,North campus,67,67,72,90,No
+fall 2022,Female,Senior,3,don't_drink,Extrovert,North campus,67,68,74,180,Yes
+fall 2022,Female,Sophomore,5,wine,Introvert,North campus,NA,NA,NA,20,Yes
+fall 2022,Female,First year,3,don't_drink,Extrovert,North campus,60,61,68,240,No
+fall 2022,Male,First year,2,don't_drink,Introvert,North campus,76,67,69,360,No
+fall 2022,Female,Sophomore,1,beer,Extrovert,North campus,62,60,70,NA,No
+fall 2022,Male,First year,0,hard_liquor,Introvert,North campus,69,63,67,300,No
+fall 2022,Male,Junior,6,don't_drink,Introvert,South campus,71,66,74,360,No
+fall 2022,Male,Sophomore,0,hard_liquor,Introvert,North campus,73,65,73,12,No
+fall 2022,Female,Sophomore,3,beer,Introvert,South campus,64,70,70,300,No
+fall 2022,Male,First year,4,hard_liquor,Introvert,North campus,73,67,72,1200,Yes
+fall 2022,Female,First year,10,don't_drink,Extrovert,North campus,64,65,74,180,No
+fall 2022,Female,Sophomore,3,don't_drink,Extrovert,South campus,67,66,73,8,No
+fall 2022,Male,Sophomore,10,don't_drink,Extrovert,North campus,73,67,69,420,No
+fall 2022,Female,Sophomore,10,don't_drink,Introvert,North campus,NA,NA,NA,360,No
+fall 2022,Male,First year,0,hard_liquor,Extrovert,North campus,71,65,65,360,No
+fall 2022,Female,Sophomore,0,hard_liquor,Introvert,Neither,65,63,75,400,No
+fall 2022,Female,Sophomore,12,don't_drink,Extrovert,South campus,66,68,70,120,No
+fall 2022,Male,First year,12,don't_drink,Extrovert,North campus,72,63,72,240,No
+fall 2022,Female,Sophomore,8,wine,Introvert,North campus,63,67,NA,240,No
+fall 2022,Female,Junior,3,wine,Extrovert,Neither,NA,NA,NA,20,Yes
+fall 2022,Female,Sophomore,12,wine,Introvert,South campus,68,69,72,360,No
+fall 2022,Female,Sophomore,3,don't_drink,Introvert,North campus,66,71,70,420,No
+fall 2022,Male,First year,8,don't_drink,Extrovert,North campus,72,62,71,360,No
+fall 2022,Male,Sophomore,8,beer,Introvert,North campus,69,64,69,200,No
+fall 2022,Female,Sophomore,NA,don't_drink,Introvert,South campus,69,67,70,60,No
+fall 2022,Female,Sophomore,1,wine,Introvert,South campus,64,NA,NA,225,No
+fall 2022,Female,Junior,0,hard_liquor,Introvert,Neither,67,61,65,420,No
+fall 2022,Female,First year,1,don't_drink,Extrovert,South campus,64.6,61.8,67.7,180,No
+fall 2022,Male,Sophomore,7,don't_drink,Introvert,South campus,72,NA,NA,250,No
+fall 2022,Male,Sophomore,15,hard_liquor,Extrovert,North campus,74,67,72,300,No
+fall 2022,Male,Junior,3,beer,Extrovert,Neither,74,68,70,760,Yes
+fall 2022,Male,Sophomore,2,wine,Introvert,South campus,NA,NA,NA,630,No
+fall 2022,Female,Sophomore,0,hard_liquor,Introvert,South campus,NA,NA,NA,30,No
+fall 2022,Male,First year,2,hard_liquor,Extrovert,North campus,70,NA,NA,420,No
+fall 2022,Female,First year,0,hard_liquor,Extrovert,North campus,69,69,68,1200,Yes
+fall 2022,Male,First year,0,hard_liquor,Introvert,South campus,69,65,74,200,No
+fall 2022,Female,First year,0,hard_liquor,Extrovert,South campus,64,63,68,450,No
+fall 2022,Female,Sophomore,4,wine,Extrovert,South campus,67,64,69,240,No
+fall 2022,Female,Sophomore,1,hard_liquor,Introvert,South campus,62,63,66,210,No
+fall 2022,Male,First year,2,hard_liquor,Introvert,South campus,70,62,69,400,No
+fall 2022,Female,Sophomore,8,don't_drink,Extrovert,North campus,65,66,71,200,No
+fall 2022,Female,First year,6,don't_drink,Extrovert,North campus,60,64,68,150,No
+fall 2022,Female,Sophomore,0,hard_liquor,Introvert,South campus,60,58,65,150,No
+fall 2022,Female,First year,4,don't_drink,Extrovert,North campus,60,62,69,2400,No
+fall 2022,Female,First year,3,wine,Extrovert,South campus,63,63.5,71,200,No
+fall 2022,Male,First year,0,don't_drink,Introvert,South campus,73,64,76,300,No
+fall 2022,Male,First year,0,hard_liquor,Introvert,North campus,67,60,70,200,No
+fall 2022,Female,Junior,3,don't_drink,Introvert,Neither,66,62,70,20,Yes
+fall 2022,Male,Junior,NA,don't_drink,Extrovert,Neither,72,67,70,120,No
+fall 2022,Male,First year,15,don't_drink,Extrovert,North campus,71,61,70,60,No
+fall 2022,Female,Sophomore,8,don't_drink,Introvert,North campus,68,69,71,3,No
+fall 2022,Female,Sophomore,12,don't_drink,Extrovert,South campus,65,63,72,900,Yes
+fall 2022,Female,First year,1,don't_drink,Introvert,South campus,64,63,69,250,No
+fall 2022,Female,Sophomore,1,hard_liquor,Introvert,North campus,62,58,NA,180,No
+fall 2022,Female,First year,4,hard_liquor,Introvert,South campus,NA,NA,NA,NA,No
+fall 2022,Female,Sophomore,5,don't_drink,Introvert,North campus,64,67,69,600,Yes
+fall 2022,Female,Sophomore,12,don't_drink,Introvert,South campus,68,65,76,100,No
+fall 2022,Female,First year,1,hard_liquor,Introvert,South campus,65,65,68,180,No
+fall 2022,Male,First year,1,hard_liquor,Introvert,North campus,72,61,68,8,No
+fall 2022,Female,Sophomore,5,hard_liquor,Extrovert,North campus,63,60,70,60,No
+fall 2022,Female,Sophomore,6,don't_drink,Extrovert,South campus,65,62,67,160,No
+fall 2022,Female,First year,0,hard_liquor,Introvert,North campus,66,66,66,450,Yes
+fall 2022,Female,First year,0,hard_liquor,Introvert,North campus,NA,NA,NA,8,No
+fall 2022,Female,Sophomore,3,wine,Introvert,South campus,NA,NA,NA,300,No
+fall 2022,Female,Sophomore,4,wine,Introvert,North campus,64,62,73,NA,Yes
+fall 2022,Male,Junior,0,beer,Introvert,South campus,NA,NA,NA,300,No
+fall 2022,Female,Senior,20,don't_drink,Introvert,Neither,62,62,70,0,No
+fall 2022,Male,First year,1,hard_liquor,Extrovert,South campus,70,64,67,200,No
+fall 2022,Male,Junior,0,hard_liquor,Introvert,South campus,68,63,65,20,No
+fall 2022,Female,Sophomore,25,beer,Extrovert,South campus,67,67,69,NA,No
+summer 2022,Female,Sophomore,1,hard_liquor,Introvert,North campus,67,62,72,0,No
+summer 2022,Female,Senior,1,don't_drink,Introvert,Neither,66,63,72,180,No
+summer 2022,Female,Sophomore,8,don't_drink,Extrovert,South campus,65,62,70,180,No
+summer 2022,Male,First year,2,don't_drink,Introvert,South campus,69,64,67,210,No
+summer 2022,Female,Junior,10,don't_drink,Introvert,Neither,NA,NA,NA,NA,No
+summer 2022,Male,Other,0,hard_liquor,Extrovert,Neither,70,64,71,400,Yes
+summer 2022,Female,First year,3,hard_liquor,Extrovert,North campus,NA,NA,NA,18,Yes
+summer 2022,Male,Other,1,don't_drink,Introvert,Neither,69,61,67,180,No
+summer 2022,Male,Junior,0,hard_liquor,Introvert,Neither,NA,NA,NA,600,Yes
+summer 2022,Female,Sophomore,2,don't_drink,Extrovert,Neither,65,64,73,60,No
+summer 2022,Male,Sophomore,0,hard_liquor,Introvert,North campus,70,NA,NA,120,No
+summer 2022,Female,Sophomore,0,wine,Introvert,North campus,66,63,67,90,No
+summer 2022,Female,Sophomore,4,beer,Introvert,North campus,67,68,66,45,No
+summer 2022,Male,Sophomore,3,hard_liquor,Introvert,South campus,72,64,68,50,No
+summer 2022,Male,Sophomore,0,don't_drink,Introvert,North campus,68,60,70,0,No
+summer 2022,Male,Sophomore,2,hard_liquor,Extrovert,Neither,72,66,68,NA,No
+summer 2022,Male,First year,4,beer,Extrovert,North campus,76,66,68,NA,Yes
+summer 2022,Male,Sophomore,3,wine,Introvert,North campus,66,63,65,200,No
+summer 2022,Female,Junior,4,don't_drink,Introvert,South campus,NA,NA,NA,0,No
+summer 2022,Male,Sophomore,15,beer,Extrovert,North campus,NA,NA,NA,420,No
+summer 2022,Male,Senior,12,hard_liquor,Extrovert,Neither,70,64,72,420,Yes
+summer 2022,Female,Sophomore,3,don't_drink,Introvert,North campus,NA,NA,NA,720,Yes
+summer 2022,Female,Senior,1,wine,Extrovert,Neither,62,60,68,200,No
+summer 2022,Male,Junior,3,don't_drink,Introvert,South campus,73,62,73,550,No
+summer 2022,Male,Senior,1,don't_drink,Introvert,Neither,NA,NA,NA,60,No
+summer 2022,Male,Junior,2,beer,Introvert,South campus,71,63,71,300,No
+summer 2022,Female,First year,1,wine,Introvert,South campus,NA,NA,NA,2,No
+summer 2022,Female,Other,0,hard_liquor,Extrovert,Neither,69,64,78,200,No
+winter 2022,Female,First year,NA,NA,NA,NA,67,70,71,NA,Yes
+winter 2022,Female,Sophomore,NA,NA,NA,NA,62.5,59,68,NA,No
+winter 2022,Male,First year,NA,NA,NA,NA,NA,NA,NA,NA,No
+winter 2022,Male,First year,NA,NA,NA,NA,NA,65.75,68.1,NA,No
+winter 2022,Female,First year,NA,NA,NA,NA,67,64,71,NA,No
+winter 2022,Female,Sophomore,NA,NA,NA,NA,62,NA,NA,NA,No
+winter 2022,Male,First year,NA,NA,NA,NA,70,62,69,NA,Yes
+winter 2022,Female,Sophomore,NA,NA,NA,NA,NA,66,NA,NA,No
+winter 2022,Female,Junior,NA,NA,NA,NA,67,NA,NA,NA,No
+winter 2022,Female,First year,NA,NA,NA,NA,NA,NA,NA,NA,No
+winter 2022,Female,First year,NA,NA,NA,NA,67,63,71,NA,No
+winter 2022,Female,Sophomore,NA,NA,NA,NA,68,65,70,NA,No
+winter 2022,Female,Junior,NA,NA,NA,NA,64,66,66,NA,No
+winter 2022,Male,First year,NA,NA,NA,NA,69,67,69,NA,No
+winter 2022,Male,First year,NA,NA,NA,NA,72,66,68,NA,No
+winter 2022,Female,First year,NA,NA,NA,NA,62,62,73,NA,No
+winter 2022,Male,Junior,NA,NA,NA,NA,69,61,72,NA,No
+winter 2022,Male,First year,NA,NA,NA,NA,72,62,68,NA,Yes
+winter 2022,Female,First year,NA,NA,NA,NA,64,63,68,NA,Yes
+winter 2022,Female,First year,NA,NA,NA,NA,66,65,68,NA,No
+winter 2022,Female,First year,NA,NA,NA,NA,62,62,74,NA,Yes
+winter 2022,Female,First year,NA,NA,NA,NA,64,61,65,NA,No
+winter 2022,Female,Junior,NA,NA,NA,NA,65,62,72,NA,No
+winter 2022,Female,Sophomore,NA,NA,NA,NA,65,61,67,NA,No
+winter 2022,Female,First year,NA,NA,NA,NA,64,62,67,NA,No
+winter 2022,Female,Junior,NA,NA,NA,NA,70,66,72,NA,No
+winter 2022,Female,Sophomore,NA,NA,NA,NA,68,66,73,NA,Yes
+winter 2022,Male,First year,NA,NA,NA,NA,68,64,69,NA,No
+winter 2022,Male,Sophomore,NA,NA,NA,NA,73,66,72,NA,No
+winter 2022,Female,First year,NA,NA,NA,NA,66,65,68,NA,No
+winter 2022,Male,First year,NA,NA,NA,NA,73,66,72,NA,Yes
+winter 2022,Female,First year,NA,NA,NA,NA,NA,NA,NA,NA,No
+winter 2022,Male,Sophomore,NA,NA,NA,NA,70,63,69,NA,No
+winter 2022,Female,First year,NA,NA,NA,NA,NA,NA,NA,NA,No
+winter 2022,Male,First year,NA,NA,NA,NA,76,70,69,NA,Yes
+winter 2022,Female,First year,NA,NA,NA,NA,NA,NA,NA,NA,No
+winter 2022,Male,First year,NA,NA,NA,NA,70,66,74,NA,No
+winter 2022,Female,Sophomore,NA,NA,NA,NA,65,68,68,NA,No
+winter 2022,Female,Sophomore,NA,NA,NA,NA,NA,NA,NA,NA,No
+winter 2022,Female,First year,NA,NA,NA,NA,64,64,70,NA,No
+winter 2022,Male,First year,NA,NA,NA,NA,74,70,70,NA,Yes
+winter 2022,Male,Sophomore,NA,NA,NA,NA,72,67,72,NA,No
+winter 2022,Female,First year,NA,NA,NA,NA,NA,NA,NA,NA,Yes
+winter 2022,Female,Sophomore,NA,NA,NA,NA,69,68,74,NA,No
+winter 2022,Male,Junior,NA,NA,NA,NA,69,64,70,NA,Yes
+winter 2022,Female,First year,NA,NA,NA,NA,62,60,74,NA,No
+winter 2022,Male,Sophomore,NA,NA,NA,NA,NA,NA,NA,NA,Yes
+winter 2022,Female,Senior,NA,NA,NA,NA,NA,NA,NA,NA,No
+winter 2022,Male,First year,NA,NA,NA,NA,NA,NA,NA,NA,No
+winter 2022,Female,First year,NA,NA,NA,NA,65,NA,NA,NA,Yes
+winter 2022,Female,First year,NA,NA,NA,NA,65,65,NA,NA,No
+winter 2022,Female,First year,NA,NA,NA,NA,61,60,NA,NA,No
+winter 2022,Female,First year,NA,NA,NA,NA,NA,NA,NA,NA,No
+winter 2022,Female,First year,NA,NA,NA,NA,63,61,71,NA,No
+winter 2022,Female,First year,NA,NA,NA,NA,65.75,63,68,NA,No
+winter 2022,Female,First year,NA,NA,NA,NA,64,63,72,NA,No
+winter 2022,Female,First year,NA,NA,NA,NA,NA,NA,NA,NA,No
+winter 2022,Female,Sophomore,NA,NA,NA,NA,64,66,68,NA,No
+winter 2022,Female,Junior,NA,NA,NA,NA,NA,NA,NA,NA,Yes
+winter 2022,Male,First year,NA,NA,NA,NA,72,65,68,NA,No
+winter 2022,Male,First year,NA,NA,NA,NA,72,62,68,NA,No
+winter 2022,Female,Senior,NA,NA,NA,NA,64,62,67,NA,No
+winter 2022,Male,Sophomore,NA,NA,NA,NA,69,63,65,NA,No
+winter 2022,Female,First year,NA,NA,NA,NA,NA,NA,NA,NA,No
+winter 2022,Female,First year,NA,NA,NA,NA,64,62,74,NA,No
+winter 2022,Female,First year,NA,NA,NA,NA,NA,NA,NA,NA,No
+winter 2022,Female,Sophomore,NA,NA,NA,NA,61,68,NA,NA,No
+winter 2022,Female,Sophomore,NA,NA,NA,NA,NA,NA,NA,NA,No
+winter 2022,Female,First year,NA,NA,NA,NA,66,61,74,NA,No
+winter 2022,Female,First year,NA,NA,NA,NA,62,60,68,NA,No
+winter 2022,Female,Sophomore,NA,NA,NA,NA,NA,NA,NA,NA,No
+winter 2022,Female,Sophomore,NA,NA,NA,NA,65,63,70,NA,No
+winter 2022,Female,Sophomore,NA,NA,NA,NA,62,62,NA,NA,No
+winter 2022,Male,Sophomore,NA,NA,NA,NA,NA,NA,NA,NA,No
+winter 2022,Male,Sophomore,NA,NA,NA,NA,73,64,76,NA,No
+winter 2022,Female,First year,NA,NA,NA,NA,61,65,NA,NA,No
+winter 2022,Female,First year,NA,NA,NA,NA,66,69.6,70.8,NA,Yes
+winter 2022,Female,Senior,NA,NA,NA,NA,63,62,NA,NA,No
+winter 2022,Female,First year,NA,NA,NA,NA,NA,NA,NA,NA,No
+winter 2022,Male,First year,NA,NA,NA,NA,72,65,72,NA,No
+winter 2022,Male,First year,NA,NA,NA,NA,71,NA,NA,NA,Yes
+winter 2022,Female,First year,NA,NA,NA,NA,NA,NA,NA,NA,Yes
+winter 2022,Male,Sophomore,NA,NA,NA,NA,NA,NA,NA,NA,No
+winter 2022,Female,Sophomore,NA,NA,NA,NA,66,63,70,NA,Yes
+winter 2022,Female,First year,NA,NA,NA,NA,NA,NA,NA,NA,No
+winter 2022,Female,First year,NA,NA,NA,NA,NA,67.3,66.5,NA,No
+winter 2022,Female,First year,NA,NA,NA,NA,62,64,NA,NA,No
+winter 2022,Male,Sophomore,NA,NA,NA,NA,NA,NA,NA,NA,No
+winter 2022,Male,First year,NA,NA,NA,NA,70,65,73,NA,No
+winter 2022,Male,First year,NA,NA,NA,NA,NA,NA,NA,NA,No
+winter 2022,Male,Sophomore,NA,NA,NA,NA,NA,NA,NA,NA,Yes
+winter 2022,Female,First year,NA,NA,NA,NA,61,59,70,NA,No
+fall 2021,Male,First year,NA,NA,NA,NA,64,NA,NA,NA,No
+fall 2021,Male,First year,NA,NA,NA,NA,68,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,65,NA,NA,NA,No
+fall 2021,Female,Junior,NA,NA,NA,NA,65,NA,NA,NA,No
+fall 2021,Male,First year,NA,NA,NA,NA,73,NA,NA,NA,No
+fall 2021,Female,Senior,NA,NA,NA,NA,66,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,61.5,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,64,NA,NA,NA,No
+fall 2021,Male,Senior,NA,NA,NA,NA,69,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,68,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,65,NA,NA,NA,No
+fall 2021,Female,Sophomore,NA,NA,NA,NA,64,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,66,NA,NA,NA,No
+fall 2021,Male,Sophomore,NA,NA,NA,NA,68,NA,NA,NA,No
+fall 2021,Male,First year,NA,NA,NA,NA,65,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,64,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,65,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,63,NA,NA,NA,No
+fall 2021,Female,Sophomore,NA,NA,NA,NA,67,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,63,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,63,NA,NA,NA,No
+fall 2021,Female,Senior,NA,NA,NA,NA,67,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,66,NA,NA,NA,No
+fall 2021,Female,Sophomore,NA,NA,NA,NA,63.5,NA,NA,NA,No
+fall 2021,Female,Junior,NA,NA,NA,NA,64,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,65,NA,NA,NA,No
+fall 2021,Male,Junior,NA,NA,NA,NA,74,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,68,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,54,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,62,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,67,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,69,NA,NA,NA,No
+fall 2021,Male,First year,NA,NA,NA,NA,75,NA,NA,NA,Yes
+fall 2021,Female,First year,NA,NA,NA,NA,63,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,65,NA,NA,NA,No
+fall 2021,Female,Sophomore,NA,NA,NA,NA,67,NA,NA,NA,Yes
+fall 2021,Male,First year,NA,NA,NA,NA,70,NA,NA,NA,Yes
+fall 2021,Female,First year,NA,NA,NA,NA,60,NA,NA,NA,No
+fall 2021,Male,First year,NA,NA,NA,NA,71,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,64,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,62,NA,NA,NA,No
+fall 2021,Male,Sophomore,NA,NA,NA,NA,71,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,61,NA,NA,NA,No
+fall 2021,Male,Senior,NA,NA,NA,NA,66,NA,NA,NA,No
+fall 2021,Female,Junior,NA,NA,NA,NA,60,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,67,NA,NA,NA,No
+fall 2021,Female,Sophomore,NA,NA,NA,NA,63,NA,NA,NA,No
+fall 2021,Male,Sophomore,NA,NA,NA,NA,65,NA,NA,NA,No
+fall 2021,Female,Senior,NA,NA,NA,NA,70,NA,NA,NA,No
+fall 2021,Female,Senior,NA,NA,NA,NA,69,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,62,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,65,NA,NA,NA,No
+fall 2021,Male,Junior,NA,NA,NA,NA,75,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,63,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,64,NA,NA,NA,No
+fall 2021,Male,Junior,NA,NA,NA,NA,74,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,63,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,66,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,65,NA,NA,NA,No
+fall 2021,Male,First year,NA,NA,NA,NA,78,NA,NA,NA,No
+fall 2021,Female,Sophomore,NA,NA,NA,NA,60,NA,NA,NA,No
+fall 2021,Female,Junior,NA,NA,NA,NA,63,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,63,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,63,NA,NA,NA,No
+fall 2021,Male,Junior,NA,NA,NA,NA,75,NA,NA,NA,No
+fall 2021,Male,First year,NA,NA,NA,NA,71,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,60.5,NA,NA,NA,No
+fall 2021,Male,Junior,NA,NA,NA,NA,69,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,67,NA,NA,NA,No
+fall 2021,Male,Junior,NA,NA,NA,NA,67,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,63,NA,NA,NA,Yes
+fall 2021,Female,First year,NA,NA,NA,NA,68,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,63,NA,NA,NA,Yes
+fall 2021,Female,Junior,NA,NA,NA,NA,61,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,68,NA,NA,NA,No
+fall 2021,Female,Sophomore,NA,NA,NA,NA,63,NA,NA,NA,No
+fall 2021,Male,Senior,NA,NA,NA,NA,72,NA,NA,NA,No
+fall 2021,Male,First year,NA,NA,NA,NA,68,NA,NA,NA,No
+fall 2021,Male,Sophomore,NA,NA,NA,NA,67.5,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,69,NA,NA,NA,No
+fall 2021,Female,Sophomore,NA,NA,NA,NA,67,NA,NA,NA,Yes
+fall 2021,Female,Junior,NA,NA,NA,NA,64,NA,NA,NA,No
+fall 2021,Male,First year,NA,NA,NA,NA,71,NA,NA,NA,No
+fall 2021,Male,First year,NA,NA,NA,NA,74,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,67,NA,NA,NA,No
+fall 2021,Male,First year,NA,NA,NA,NA,69,NA,NA,NA,No
+fall 2021,Female,Sophomore,NA,NA,NA,NA,67,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,63,NA,NA,NA,No
+fall 2021,Female,Sophomore,NA,NA,NA,NA,63,NA,NA,NA,No
+fall 2021,Male,Sophomore,NA,NA,NA,NA,72,NA,NA,NA,No
+fall 2021,Female,Sophomore,NA,NA,NA,NA,64,NA,NA,NA,No
+fall 2021,Female,Sophomore,NA,NA,NA,NA,69,NA,NA,NA,No
+fall 2021,Female,Sophomore,NA,NA,NA,NA,70,NA,NA,NA,Yes
+fall 2021,Male,Senior,NA,NA,NA,NA,70,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,64,NA,NA,NA,No
+fall 2021,Male,Junior,NA,NA,NA,NA,72,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,64,NA,NA,NA,No
+fall 2021,Female,Senior,NA,NA,NA,NA,68,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,64,NA,NA,NA,No
+fall 2021,Female,Senior,NA,NA,NA,NA,63,NA,NA,NA,Yes
+fall 2021,Male,Other,NA,NA,NA,NA,75,NA,NA,NA,No
+fall 2021,Male,Sophomore,NA,NA,NA,NA,75,NA,NA,NA,Yes
+fall 2021,Male,First year,NA,NA,NA,NA,72,NA,NA,NA,No
+fall 2021,Male,First year,NA,NA,NA,NA,73,NA,NA,NA,No
+fall 2021,Male,Sophomore,NA,NA,NA,NA,76,NA,NA,NA,Yes
+fall 2021,Female,Sophomore,NA,NA,NA,NA,65,NA,NA,NA,No
+fall 2021,Male,First year,NA,NA,NA,NA,72,NA,NA,NA,Yes
+fall 2021,Female,First year,NA,NA,NA,NA,61,NA,NA,NA,No
+fall 2021,Male,Sophomore,NA,NA,NA,NA,74,NA,NA,NA,Yes
+fall 2021,Female,First year,NA,NA,NA,NA,62,NA,NA,NA,No
+fall 2021,Male,First year,NA,NA,NA,NA,71,NA,NA,NA,Yes
+fall 2021,Female,Senior,NA,NA,NA,NA,63,NA,NA,NA,No
+fall 2021,Male,First year,NA,NA,NA,NA,72,NA,NA,NA,Yes
+fall 2021,Male,Sophomore,NA,NA,NA,NA,77,NA,NA,NA,No
+fall 2021,Male,Sophomore,NA,NA,NA,NA,67,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,67,NA,NA,NA,No
+fall 2021,Male,First year,NA,NA,NA,NA,72,NA,NA,NA,No
+fall 2021,Female,Sophomore,NA,NA,NA,NA,66,NA,NA,NA,No
+fall 2021,Male,Junior,NA,NA,NA,NA,65,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,66,NA,NA,NA,Yes
+fall 2021,Female,Sophomore,NA,NA,NA,NA,61,NA,NA,NA,No
+fall 2021,Female,Junior,NA,NA,NA,NA,65,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,66,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,67,NA,NA,NA,No
+fall 2021,Male,Sophomore,NA,NA,NA,NA,60,NA,NA,NA,No
+fall 2021,Male,First year,NA,NA,NA,NA,64,NA,NA,NA,No
+fall 2021,Male,Junior,NA,NA,NA,NA,71,NA,NA,NA,No
+fall 2021,Male,Junior,NA,NA,NA,NA,63,NA,NA,NA,Yes
+fall 2021,Female,Sophomore,NA,NA,NA,NA,67,NA,NA,NA,Yes
+fall 2021,Female,First year,NA,NA,NA,NA,61.5,NA,NA,NA,No
+fall 2021,Female,Sophomore,NA,NA,NA,NA,70,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,66,NA,NA,NA,Yes
+fall 2021,Female,First year,NA,NA,NA,NA,68,NA,NA,NA,Yes
+fall 2021,Female,Sophomore,NA,NA,NA,NA,66,NA,NA,NA,No
+fall 2021,Female,Sophomore,NA,NA,NA,NA,69,NA,NA,NA,No
+fall 2021,Female,Junior,NA,NA,NA,NA,67,NA,NA,NA,Yes
+fall 2021,Female,First year,NA,NA,NA,NA,68,NA,NA,NA,No
+fall 2021,Male,First year,NA,NA,NA,NA,74,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,63,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,65,NA,NA,NA,No
+fall 2021,Female,Sophomore,NA,NA,NA,NA,66,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,64,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,64,NA,NA,NA,No
+fall 2021,Female,Sophomore,NA,NA,NA,NA,68,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,67,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,67,NA,NA,NA,No
+fall 2021,Male,First year,NA,NA,NA,NA,68,NA,NA,NA,No
+fall 2021,Male,First year,NA,NA,NA,NA,72,NA,NA,NA,No
+fall 2021,Male,Sophomore,NA,NA,NA,NA,65,NA,NA,NA,No
+fall 2021,Male,First year,NA,NA,NA,NA,70,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,66,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,65,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,64,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,63,NA,NA,NA,No
+fall 2021,Female,Sophomore,NA,NA,NA,NA,68,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,66,NA,NA,NA,No
+fall 2021,Male,First year,NA,NA,NA,NA,70,NA,NA,NA,No
+fall 2021,Female,First year,NA,NA,NA,NA,63,NA,NA,NA,No
+spring 2022,Female,First year,NA,hard_liquor,Introvert,North campus,63.5,66,71,NA,Yes
+spring 2022,Female,Sophomore,NA,hard_liquor,Extrovert,South campus,62,70,66,NA,No
+spring 2022,Female,First year,NA,hard_liquor,Extrovert,North campus,66,64,70,NA,No
+spring 2022,Female,First year,NA,hard_liquor,Introvert,North campus,NA,NA,NA,NA,No
+spring 2022,Female,First year,NA,hard_liquor,Extrovert,North campus,60,63,66,NA,No
+spring 2022,Female,First year,NA,hard_liquor,Introvert,North campus,65,64,64,NA,No
+spring 2022,Male,First year,NA,don't_drink,Introvert,North campus,68,63,67,NA,No
+spring 2022,Female,Sophomore,NA,don't_drink,Introvert,South campus,61,64,66,NA,No
+spring 2022,Female,First year,NA,hard_liquor,Introvert,South campus,64,64,69,NA,No
+spring 2022,Male,First year,NA,hard_liquor,Introvert,South campus,72,NA,NA,NA,No
+spring 2022,Male,First year,NA,don't_drink,Extrovert,South campus,73,68,76,NA,No
+spring 2022,Female,First year,NA,don't_drink,Introvert,South campus,63,65,72,NA,No
+spring 2022,Female,First year,NA,hard_liquor,Introvert,South campus,63,64,70,NA,No
+spring 2022,Female,First year,NA,wine,Extrovert,North campus,NA,NA,NA,NA,No
+spring 2022,Female,First year,NA,hard_liquor,Introvert,South campus,NA,NA,NA,NA,Yes
+spring 2022,Female,First year,NA,hard_liquor,Introvert,North campus,66,66,70,NA,No
+spring 2022,Male,First year,NA,don't_drink,Introvert,North campus,67,62,64,NA,No
+spring 2022,Female,First year,NA,hard_liquor,Introvert,North campus,62,60,NA,NA,No
+spring 2022,Female,Sophomore,NA,don't_drink,Introvert,South campus,65,60,70,NA,No
+spring 2022,Female,First year,NA,don't_drink,Extrovert,North campus,64,67,70,NA,No
+spring 2022,Male,First year,NA,don't_drink,Extrovert,North campus,73,66,71,NA,No
+spring 2022,Female,Sophomore,NA,hard_liquor,Extrovert,South campus,68,68,71,NA,No
+spring 2022,Female,First year,NA,beer,Introvert,North campus,65,61,68,NA,No
+spring 2022,Female,Sophomore,NA,don't_drink,Extrovert,North campus,66,65,71,NA,No
+spring 2022,Female,First year,NA,don't_drink,Introvert,South campus,63,67,70,NA,No
+spring 2022,Male,First year,NA,don't_drink,Extrovert,North campus,68,68,70,NA,No
+spring 2022,Male,First year,NA,don't_drink,Introvert,South campus,68,62,66,NA,No
+spring 2022,Female,First year,NA,hard_liquor,Extrovert,South campus,64,65,72,NA,No
+spring 2022,Female,First year,NA,wine,Introvert,South campus,66,64,71,NA,Yes
+spring 2022,Male,First year,NA,don't_drink,Extrovert,North campus,NA,NA,NA,NA,No
+spring 2022,Female,First year,NA,don't_drink,Introvert,South campus,65,64,70,NA,Yes
+spring 2022,Female,First year,NA,hard_liquor,Introvert,South campus,66,69,70,NA,No
+spring 2022,Female,First year,NA,wine,Introvert,North campus,NA,NA,NA,NA,No
+spring 2022,Female,Junior,NA,wine,Introvert,North campus,66,64,70,NA,No
+spring 2022,Male,Sophomore,NA,don't_drink,Introvert,South campus,70,63,68,NA,No
+spring 2022,Female,First year,NA,hard_liquor,Extrovert,North campus,62,63,64,NA,No
+spring 2022,Female,First year,NA,hard_liquor,Introvert,South campus,65,71,70,NA,No
+spring 2022,Female,Sophomore,NA,don't_drink,Introvert,South campus,60,60,66,NA,No
+spring 2022,Female,Sophomore,NA,don't_drink,Introvert,South campus,62,62,70,NA,No
+spring 2022,Female,Junior,NA,don't_drink,Introvert,Neither,NA,NA,NA,NA,No
+spring 2022,Female,First year,NA,hard_liquor,Introvert,North campus,NA,NA,NA,NA,No
+spring 2022,Female,First year,NA,don't_drink,Introvert,South campus,65,66,71,NA,No
+spring 2022,Female,First year,NA,don't_drink,Introvert,North campus,65,63,71,NA,No
+spring 2022,Male,First year,NA,beer,Introvert,South campus,68,NA,NA,NA,No
+spring 2022,Female,First year,NA,don't_drink,Introvert,South campus,64,69,68,NA,No
+spring 2022,Female,First year,NA,hard_liquor,Introvert,South campus,NA,NA,NA,NA,No
+spring 2022,Male,First year,NA,don't_drink,Introvert,North campus,80,64,79,NA,Yes
+spring 2022,Female,First year,NA,hard_liquor,Introvert,North campus,64,63,73,NA,No
+spring 2022,Male,Sophomore,NA,hard_liquor,Introvert,Neither,NA,NA,NA,NA,Yes
+spring 2022,Female,First year,NA,don't_drink,Extrovert,North campus,64,65,70,NA,No
+spring 2022,Female,First year,NA,hard_liquor,Introvert,North campus,NA,NA,NA,NA,No
+spring 2022,Female,First year,NA,wine,Extrovert,North campus,67,64,72,NA,No
+spring 2022,Female,First year,NA,wine,Extrovert,North campus,68.5,66,67,NA,No
+spring 2022,Male,First year,NA,hard_liquor,Introvert,South campus,70.5,NA,NA,NA,No
+spring 2022,Female,First year,NA,don't_drink,Extrovert,North campus,NA,NA,NA,NA,No
+spring 2022,Female,First year,NA,don't_drink,Extrovert,North campus,69,64,75,NA,No
+spring 2022,Female,Sophomore,NA,beer,Extrovert,South campus,66,NA,NA,NA,No
+spring 2022,Female,First year,NA,don't_drink,Introvert,South campus,61,62,68,NA,No
+spring 2022,Male,Sophomore,NA,beer,Introvert,South campus,75,NA,73,NA,No
+spring 2022,Female,Sophomore,NA,don't_drink,Extrovert,North campus,67,67,75,NA,No
+spring 2022,Female,First year,NA,don't_drink,Extrovert,South campus,67,63,75,NA,No
+spring 2022,Male,First year,NA,wine,Introvert,South campus,70,62,72,NA,No
+spring 2022,Female,First year,NA,don't_drink,Introvert,South campus,68,62,76,NA,No
+spring 2022,Male,Junior,NA,don't_drink,Introvert,North campus,69,62,66,NA,No
+spring 2022,Female,First year,NA,hard_liquor,Introvert,South campus,62,60,76,NA,No
+spring 2022,Female,Sophomore,NA,don't_drink,Extrovert,South campus,63,65,66,NA,No
+spring 2022,Female,Sophomore,NA,hard_liquor,Extrovert,North campus,62,63,66,NA,No
+spring 2022,Female,First year,NA,hard_liquor,Introvert,South campus,63,63,68,NA,No
+spring 2022,Female,First year,NA,don't_drink,Extrovert,North campus,NA,NA,NA,NA,No
+spring 2022,Male,First year,NA,don't_drink,Introvert,South campus,68,60,69,NA,No
+spring 2022,Female,Sophomore,NA,don't_drink,Extrovert,South campus,62,61,68,NA,No
+spring 2022,Male,Sophomore,NA,beer,Extrovert,North campus,74,64,76,NA,Yes
+spring 2022,Female,First year,NA,wine,Introvert,South campus,64,64,73,NA,No
+spring 2022,Male,First year,NA,hard_liquor,Introvert,South campus,70.86,NA,NA,NA,No
+spring 2022,Female,First year,NA,don't_drink,Introvert,North campus,67,65,69,NA,No
+spring 2022,Female,First year,NA,don't_drink,Introvert,North campus,60,NA,NA,NA,No
+spring 2022,Male,Sophomore,NA,wine,Extrovert,North campus,71,64,69,NA,No
+spring 2022,Female,First year,NA,don't_drink,Extrovert,North campus,NA,NA,NA,NA,No
+spring 2022,Male,First year,NA,hard_liquor,Extrovert,South campus,65,64,NA,NA,No
+spring 2022,Female,Sophomore,NA,beer,Extrovert,North campus,67,62,71,NA,No
+spring 2022,Male,First year,NA,don't_drink,Extrovert,South campus,76,62,74,NA,No
+spring 2022,Female,Sophomore,NA,don't_drink,Extrovert,South campus,62,61,71,NA,No
+spring 2022,Female,First year,NA,don't_drink,Extrovert,North campus,NA,NA,NA,NA,No
+spring 2022,Female,First year,NA,hard_liquor,Introvert,South campus,66,67,67,NA,No
+spring 2022,Female,Sophomore,NA,hard_liquor,Introvert,South campus,69,75,NA,NA,No
+spring 2022,Male,First year,NA,wine,Extrovert,South campus,NA,NA,NA,NA,Yes
+spring 2022,Female,First year,NA,don't_drink,Extrovert,South campus,66,64,68,NA,No
+spring 2022,Male,Sophomore,NA,hard_liquor,Introvert,North campus,68,60,74,NA,Yes
+spring 2022,Male,Sophomore,NA,don't_drink,Extrovert,South campus,69,NA,67,NA,No
+spring 2022,Female,First year,NA,don't_drink,Extrovert,South campus,64,61,NA,NA,No
+spring 2022,Male,First year,NA,hard_liquor,Introvert,South campus,70,64,74,NA,No
+spring 2022,Female,First year,NA,hard_liquor,Introvert,South campus,NA,NA,NA,NA,No
+spring 2022,Male,Senior,NA,don't_drink,Introvert,Neither,67,67,69,NA,No
+spring 2022,Female,First year,NA,hard_liquor,Extrovert,North campus,NA,NA,NA,NA,No
+spring 2022,Male,Sophomore,NA,don't_drink,Extrovert,North campus,NA,66,70,NA,Yes
+spring 2022,Male,Junior,NA,don't_drink,Introvert,North campus,70,67,69,NA,No
+spring 2022,Female,First year,NA,wine,Extrovert,North campus,67,63,66.5,NA,No
+spring 2022,Female,Junior,NA,don't_drink,Extrovert,Neither,63,NA,NA,NA,No
+spring 2022,Female,Sophomore,NA,don't_drink,Introvert,South campus,63,60,68,NA,No
+spring 2022,Female,First year,NA,don't_drink,Introvert,North campus,NA,NA,NA,NA,Yes
+spring 2022,Female,First year,NA,don't_drink,Extrovert,North campus,67,60,75,NA,No
+spring 2022,Female,First year,NA,hard_liquor,Introvert,North campus,66,61,71,NA,No
+spring 2022,Female,Junior,NA,wine,Introvert,North campus,63,65,71,NA,No
+spring 2022,Female,Junior,NA,don't_drink,Extrovert,Neither,65,64,69,NA,No
+spring 2022,Female,First year,NA,don't_drink,Extrovert,South campus,64,64,75,NA,No
+spring 2022,Male,First year,NA,don't_drink,Introvert,North campus,65,61,63,NA,No
+spring 2022,Female,First year,NA,hard_liquor,Introvert,North campus,NA,NA,NA,NA,No
